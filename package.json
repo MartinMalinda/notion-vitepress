@@ -1,0 +1,17 @@
+{
+  "name": "docs-theme",
+  "version": "0.0.1",
+  "description": "A modern documentation theme for VitePress",
+  "author": "Valmisson Grizorte",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valmisson/docs-theme.git"
+  },
+  "keywords": [
+    "vitepress",
+    "theme",
+    "documentation",
+    "vue"
+  ]
+}
