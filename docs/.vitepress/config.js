@@ -2,5 +2,26 @@ module.exports = {
   title: 'Docs Theme',
   description: 'A modern documentation theme for VitePress',
 
-  themeConfig: {}
+  themeConfig: {
+    repo: 'valmisson/docs-theme',
+
+    nav: [
+      { text: 'Guide', link: '/guide/getting-started', activeMatch: '^^/guide/' }
+    ],
+
+    sidebar: {
+      '/guide/': getGuideSidebar()
+    }
+  }
+}
+
+function getGuideSidebar() {
+  return [
+    {
+      text: 'Introduction',
+      children: [
+        { text: 'Getting Started', link: '/guide/getting-started' },
+      ]
+    }
+  ]
 }
