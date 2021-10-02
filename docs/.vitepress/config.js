@@ -48,16 +48,16 @@ function getGuideSidebar() {
       text: 'General',
       children: [
         { text: 'About', link: '/guide/getting-started' },
-        { text: 'Content', link: '/guide/getting-started' },
-        { text: 'Payments', link: '/guide/getting-started' },
-        { text: 'Subscriptions', link: '/guide/getting-started' },
+        { text: 'Content', link: '/foo/' },
+        { text: 'Payments', link: '/foo/' },
+        { text: 'Subscriptions', link: '/foo/' },
       ],
     }, {
       text: 'Creators',
       children: [
-        { text: 'Connecting to Stripe', link: '/guide/getting-started' },
-        { text: 'Payouts', link: '/guide/getting-started' },
-        { text: 'Taxes', link: '/guide/getting-started' },
+        { text: 'Connecting to Stripe', link: '/foo/' },
+        { text: 'Payouts', link: '/foo/' },
+        { text: 'Taxes', link: '/foo/' },
       ]
     },
   ]
@@ -68,17 +68,17 @@ function getCzechSidebar() {
     {
       text: 'Obecné',
       children: [
-        { text: 'O platformě', link: '/guide/getting-started' },
-        { text: 'Obsah', link: '/guide/getting-started' },
-        { text: 'Platby', link: '/guide/getting-started' },
-        { text: 'Odběry', link: '/guide/getting-started' },
+        { text: 'O platformě', link: '/cs/guide/getting-started' },
+        { text: 'Obsah', link: '/cs/foo' },
+        { text: 'Platby', link: '/cs/foo' },
+        { text: 'Odběry', link: '/cs/foo' },
       ],
     }, {
       text: 'Tvůrci',
       children: [
-        { text: 'Připojení Stripe', link: '/guide/getting-started' },
-        { text: 'Výplaty', link: '/guide/getting-started' },
-        { text: 'Daně', link: '/guide/getting-started' },
+        { text: 'Připojení Stripe', link: '/cs/foo' },
+        { text: 'Výplaty', link: '/cs/foo' },
+        { text: 'Daně', link: '/cs/foo' },
       ]
     },
   ]

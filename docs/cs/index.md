@@ -2,6 +2,7 @@
 home: true
 ---
 
+<div class="box-wrapper">
 <div class="box">
   <h1 class="title">
     Jak můžeme pomoci?
@@ -15,8 +16,16 @@ home: true
     <a href="./guide/getting-started" class="btn">Vstoupit</a>
   </section>
 </div>
+</div>
 
 <style>
+
+  .box-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
   .box {
     display: flex;
     flex-direction: column;
@@ -27,6 +36,7 @@ home: true
   
   .title {
     font-size: 2.5rem;
+    max-width: 100% !important;
   }
 
   .description {
@@ -64,28 +74,6 @@ home: true
   @media (min-width: 576px) {
     .btn {
       min-width: auto;
-    }
-  }
-
-  @media (min-width: 768px) {
-    .title {
-      font-size: 3rem;
-      max-width: 80%;
-    }
-
-    .description {
-      font-size: 1.125rem;
-      max-width: 80%;
-    }
-  }
-
-  @media (min-width: 992px) {
-    .title {
-      max-width: 60%;
-    }
-
-    .description {
-      max-width: 60%;
     }
   }
 </style>
