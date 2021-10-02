@@ -2,30 +2,21 @@
 home: true
 ---
 
-<div class="box-wrap">
 <div class="box">
   <h1 class="title">
-    How can we help?
+    Jak můžeme pomoci?
   </h1>
 
   <p class="description">
-    Frequently asked question about the Herohero platform. <br> Content, Payments, Subscriptions and so on.
+    Časté otázky o platformě Herohero. <br> Obsah, Platby, Odběry a jiné.
   </p>
 
   <section>
-    <a href="./guide/getting-started" class="btn">Start reading</a>
+    <a href="./guide/getting-started" class="btn">Vstoupit</a>
   </section>
-</div>
 </div>
 
 <style>
-
-  .box-wrap {
-    width: 100%;
-    display: flex;
-    justify-content: center;
-  }
-
   .box {
     display: flex;
     flex-direction: column;
@@ -36,7 +27,6 @@ home: true
   
   .title {
     font-size: 2.5rem;
-    max-width: 100% !important;
   }
 
   .description {
@@ -74,6 +64,28 @@ home: true
   @media (min-width: 576px) {
     .btn {
       min-width: auto;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .title {
+      font-size: 3rem;
+      max-width: 80%;
+    }
+
+    .description {
+      font-size: 1.125rem;
+      max-width: 80%;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .title {
+      max-width: 60%;
+    }
+
+    .description {
+      max-width: 60%;
     }
   }
 </style>

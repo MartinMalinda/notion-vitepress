@@ -1,6 +1,109 @@
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-BoldItalic.woff2') format('woff2'),
+      url('/fonts/Silka-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-BlackItalic.woff2') format('woff2'),
+      url('/fonts/Silka-BlackItalic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-MediumItalic.woff2') format('woff2'),
+      url('/fonts/Silka-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-RegularItalic.woff2') format('woff2'),
+      url('/fonts/Silka-RegularItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-Black.woff2') format('woff2'),
+      url('/fonts/Silka-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-SemiBoldItalic.woff2') format('woff2'),
+      url('/fonts/Silka-SemiBoldItalic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-Bold.woff2') format('woff2'),
+      url('/fonts/Silka-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-Medium.woff2') format('woff2'),
+      url('/fonts/Silka-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-Regular.woff2') format('woff2'),
+      url('/fonts/Silka-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: auto;
+}
+
+@font-face {
+  font-family: 'Silka';
+  src: url('/fonts/Silka-SemiBold.woff2') format('woff2'),
+      url('/fonts/Silka-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: auto;
+}
+
+
 :root {
-  --c-brand: #22B6FF;
-  --c-divider: rgba(39, 39, 39, 0.1);
+  --c-brand: rgba(122, 124, 224);
+  --c-divider: #F3F3F3;
+  --black: #000000;
+  --white: #ffffff;
+  --dark: #2F2F2F;
+  --dark-grey: #999999;
+  --medium-grey: #D6D6D6;
+  --light-grey: #F3F3F3;
+  --blue: #6C5DD2;
+  --orange: #DD7C83;
+  --red: #FC5775;
+  --red-light: #FBEDF0;
+  --purple: rgba(122, 124, 224);
+  --highlight-blue: rgba(122, 124, 224, 0.1)
 }
 
 @media (min-width: 720px) {
