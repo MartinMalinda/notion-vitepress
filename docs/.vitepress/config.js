@@ -12,7 +12,18 @@ module.exports = {
     sidebar: {
       '/guide/': getGuideSidebar(),
       '/cs/guide/': getCzechSidebar(),
-    }
+    },
+
+    locales: {
+      '/': {
+        label: 'English',
+        selectText: 'Languages',
+      },
+      '/cs/': {
+        label: 'Česky',
+        selectText: 'Jazyk',
+      },
+    },
   },
 
   locales: {
@@ -20,11 +31,13 @@ module.exports = {
       lang: 'en-US',
       title: 'Help & Support',
       description: 'Frequently asked questions about the Herohero platform - Content, Payments, Subscriptions and so on.',
+      selectText: 'English',
     },
     '/cs/': {
       lang: 'cs-CZ',
       title: 'Podpora',
       description: 'Časté otázky o platformě Herohero. Obsah, Platby, Odběry a jiné.',
+      selectText: 'Česky',
     }
   }
 }
