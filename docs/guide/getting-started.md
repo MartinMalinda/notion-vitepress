@@ -5,6 +5,6 @@
 
 Why do I need to integrate with Stripe?
 
-Test!
+**_UI pro upravu help stranky:)_**
 
-![](/images/foo.png)
+![](/images/img_20190804_185451.jpg)
