@@ -22,6 +22,9 @@ module.exports = {
       '/cs/': {
         label: 'Česky',
         selectText: 'Jazyk',
+        nav: [
+          { text: 'Zpět na Herohero', link: 'https://herohero.co' }
+        ],
       },
     },
   },
@@ -60,6 +63,12 @@ function getGuideSidebar() {
         { text: 'Taxes', link: '/foo/' },
       ]
     },
+    {
+      text: 'Contact ✉️',
+      children: [
+        { text: 'info@herohero.co' }
+      ]
+    }
   ]
 }
 
@@ -81,5 +90,11 @@ function getCzechSidebar() {
         { text: 'Daně', link: '/cs/foo' },
       ]
     },
+    {
+      text: 'Kontakt ✉️',
+      children: [
+        { text: 'info@herohero.co' }
+      ]
+    }
   ]
 }
