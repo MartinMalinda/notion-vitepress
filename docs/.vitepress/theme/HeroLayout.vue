@@ -34,6 +34,22 @@ const { Layout } = DefaultTheme
           Let us know so we can make it better
         </a>
       </template>
+      <footer class="theme">
+    © Herohero
+    <nav>
+      <a href="mailto:info@herohero.co">
+        Contact Us
+      </a>
+      <a rel="noopener" target="_blank" href="https://www.instagram.com/herohero.co/">
+        Instagram
+      </a>
+      <a rel="noopener" target="_blank" href="https://twitter.com/heroherocompany">
+        Twitter
+      </a>
+      <a href="mailto:info@herohero.co">
+        Join Us</a>
+      </nav>
+  </footer>
       </small>
     </template>
   </Layout>
