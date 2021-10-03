@@ -21,19 +21,20 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #page-bottom>
-      <small>
+      <small style="max-width: 300px; display: block; line-height: 1.5; margin-top: -22px;">
       <template v-if="language.includes('cs')">
-        Něco tu chybí?
+        Něco tu chybí? <br />
         <a target="_blank" rel="noreferrer noopener" :href="feedbackLink">
           Dejte nám vědět co bychom tu mohli zlepšit
         </a>
       </template>
       <template v-else-if="language.includes('en')">
-        Something is missing?
+        Something is missing? <br />
         <a target="_blank" rel="noreferrer noopener" :href="feedbackLink">
           Let us know so we can make it better
         </a>
       </template>
+      </small>
       <footer class="theme">
     © Herohero
     <nav>
@@ -50,7 +51,6 @@ const { Layout } = DefaultTheme
         Join Us</a>
       </nav>
   </footer>
-      </small>
     </template>
   </Layout>
 </template>
