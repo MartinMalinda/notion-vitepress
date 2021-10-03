@@ -1,7 +1,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme';
 import { useData, useRoute, useRouter} from 'vitepress';
-import { computed } from 'vue';
+import { computed, watch } from 'vue';
 
 const data = useData();
 const language = computed(() => data.lang.value);
@@ -14,6 +14,14 @@ const feedbackLink = computed(() => {
 
   return `https://airtable.com/shrLoqNku6HTrM4I1?prefill_Page=${pageData.value.title}`;
 });
+
+
+// Only run this on the client. Not during build.
+if (typeof window !== 'undefined' && window.ga) {
+  watch(() => router.route.data.relativePath, (path) => {
+      ga('send', 'pageview', path);
+  }, { immediate: true });
+}
 
 const { Layout } = DefaultTheme
 </script>
