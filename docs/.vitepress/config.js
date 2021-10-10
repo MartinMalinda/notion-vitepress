@@ -51,16 +51,16 @@ function getGuideSidebar() {
       text: 'General',
       children: [
         { text: 'About', link: '/guide/getting-started' },
-        { text: 'Content', link: '/foo/' },
-        { text: 'Payments', link: '/foo/' },
-        { text: 'Subscriptions', link: '/foo/' },
+        { text: 'Content', link: '/guide/content' },
+        { text: 'Payments', link: '/guide/payments' },
+        { text: 'Subscriptions', link: '/guide/subscriptions' },
       ],
     }, {
       text: 'Creators',
       children: [
-        { text: 'Connecting to Stripe', link: '/foo/' },
-        { text: 'Payouts', link: '/foo/' },
-        { text: 'Taxes', link: '/foo/' },
+        { text: 'Connecting to Stripe', link: '/guide/stripe' },
+        { text: 'Payouts', link: '/guide/payouts' },
+        { text: 'Taxes', link: '/guide/taxes' },
       ]
     },
     {

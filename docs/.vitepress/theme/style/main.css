@@ -63,20 +63,6 @@ body {
   }
 }
 
-@media (min-width: 1200px) {
-  .theme,
-  .nav-bar {
-    max-width: 1140px !important;
-  }
-}
-
-@media (min-width: 1400px) {
-  .theme,
-  .nav-bar {
-    max-width: 1320px !important;
-  }
-}
-
 .theme.no-sidebar {
   max-width: 100% !important;
   display: block;

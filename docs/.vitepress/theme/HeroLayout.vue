@@ -29,7 +29,7 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #page-bottom>
-      <small style="max-width: calc(100% - 100px); display: block; line-height: 1.5; margin-top: -22px;">
+      <small style="max-width: calc(100% - 100px); display: block; line-height: 1.5; margin-top: -90px;">
       <template v-if="language.includes('cs')">
         Něco tu chybí? <br />
         <a target="_blank" rel="noreferrer noopener" :href="feedbackLink">

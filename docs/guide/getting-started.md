@@ -1,65 +1,25 @@
 ---
-
+sidebarDepth: 2
 ---
-# Integrating with Stripe
+# What is Herohero?
 
-Why do I need to integrate with Stripe?
+Herohero is a social network that appreciates creativity. On Herohero you can publish content and subscribe to content of others but here the content is monetized. This allows creators of all sorts to fund their interests and passions.  
+Anyone on Herohero can create their own paid channel.
 
-**_UI pro upravu help stranky:)_**
+## How is Herohero different from other platforms?
 
-![](/images/img_20190804_185451.jpg)
+Herohero aims to be useful and minimal. Visitors can subscribe to a paid channel with a few clicks and they are not bothered by setting up a password, confirming their email and so on. Creators can setup up their paid channel very fast with the help of Stripe. The platform supports DMs and secure well-integrated video and audio. Herohero has also just a 10% fixed fee so that most of the income goes to the creator.
 
-# Fert adgreditur molire innitens audistis
+## Who is Herohero for?
 
-## Contigit haud
+Anyone. We've found out that various creators can have success on Herohero. Podcasters, writers, fitness and wellness gurus, vloggers, musicians or whoever else who can provide extra value to their audience. In general, people tend to pay for quality content.
 
-Lorem markdownum post Iphide verborum, hospitibus sucosque colat loco scelus,
-constitit! Non sua collis limina intrare vicinum, aenea, emittite Latia quaerant
-cepit dignior. Hic Panopesque fugit iuvenem, agricolis et amictus regia, si. Ara
-equi, quae alta magis [varias ardescit](http://tonantis.org/), opem foliis duce
-ignis concedant. Meo erat sperantemque excutit et dici sepulcro moderata
-Gigantas inputat aut avitis, admoti dolor **et** matertera cornum, sorores.
+## Will Herohero advertise or in other way market my content?
 
-- Ut legit tremens ventos opposui destrinxit nocte
-- Mixtos et veluti habent
-- Precor sibi prudentia praefractam cum purpureusque duris
+Mostly no. The platform does not have a feed and does not suggest accounts to subscribe to. It is therefore primarily your task to bring your audience here. Herohero then provides a calm online place without distractions.
 
-## In cum nervo silvis et aevi pro
+Sometimes we do however feature some creators on platforms like Instagram, Twitter or Facebook.
 
-Viri seque, creberrima tulisse. Spicula animumque pallor mansit. *Negat
-theatro*, et saucia harenae poterat eripe vestem nondum esset pulchrosque, inter
-quo; adeat mora quantum et. Fovit glomerataque spectat
-[tenuere](http://illucecce.org/diana), coniugis, exerces iungitur quod.
-Inhaeserat *genitor* patris Ciris simus, disque sede minuit natas quas?
+## How large audience do I need to have success on Herohero?
 
-Cinximus maeret ut, opprobria ut Ismenis sed, grande in levi cum. Siccata ante
-serta volebat quaerit *mirabere referre habebat* festa me. Harundine senior, cur
-ab tumulo viros decipit luminis fallere sum animum Orionis scire.
-
-## Arcus sed diligitur huius obstet
-
-Tantum ait se pectus echidnae cum, tumultus omnia, felici quid vita protinus:
-Phineu nec. [Atque agant saltumque](http://etoptat.com/) inmitem *Vestaque
-invitae*, precari aequore; nam iuvenes, fertilis in *sidera noverca quoque*
-ponderibus? Luminibus scilicet ante. Laceras corporibus venis sic **pleno
-patria**: viscera, ubi pictas perque loquentis haud, quo pes frustraque tellure!
-Mersitque torsit [conataeque consistere](http://virisque.org/) locum, fulminis
-ducere, *et* metuit!
-
-> Modo tyrannus ut eurus ut labor senis facilem dum; matre Cyparissus madidas.
-> Ferventibus Nixique amor. Rata quod rogat Occupat blandis infelix postquam ad
-> virgo, consequar voluisse. Indulsit ecce sis muneris error: per suus amans
-> sine subductaque?
-
-## Stellae ventis cernimus decebat mente passis ministrarum
-
-Quicumque parte. In lusus reges patrio praecipiti
-[sua](http://phaethon-mitia.com/prohibes) neque, eo mox est quoque conterminus
-**terras**, qua torsit anteit.
-
-1. Dolor conceptaque ad ante invita
-2. Terra et iram et tactae versa perque
-3. Tamen ignes est et illis Corythi lacrimas
-
-Quem unde tuorum, esse, conripiantque illa vestigia nimis illic frustra
-florumque arboris. Et quem toto cum, iaculum accipe gelido sparso, at dictis.
+This is very hard to say in general. You can have thousand loyal followers (or super fans ;)) on a public social media platform which will happily follow you on Herohero. You can also have many thousands of followers but they won't see the added value and choose not to subscribe.
