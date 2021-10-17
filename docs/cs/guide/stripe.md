@@ -1,7 +1,7 @@
 ---
 sidebarDepth: 2
 ---
-# Connecting to Stripe
+# Připojení Stripe
 
 Herohero uses Stripe for secure payments. Purchases of subscriptions are managed by the Stripe gateway. But Stripe is also used to issue payouts to the creators. By creating a Stripe account and linking it to Herohero, you'll allow Stripe to send your monthly profits to your bank account. It only takes a few minutes to set up.
 

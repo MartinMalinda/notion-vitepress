@@ -86,16 +86,16 @@ function getCzechSidebar() {
       text: 'Obecné',
       children: [
         { text: 'O platformě', link: '/cs/guide/getting-started' },
-        { text: 'Obsah', link: '/cs/foo' },
-        { text: 'Platby', link: '/cs/foo' },
-        { text: 'Odběry', link: '/cs/foo' },
+        { text: 'Obsah', link: '/cs/guide/content' },
+        { text: 'Platby', link: '/cs/guide/payments' },
       ],
     }, {
       text: 'Tvůrci',
       children: [
-        { text: 'Připojení Stripe', link: '/cs/foo' },
-        { text: 'Výplaty', link: '/cs/foo' },
-        { text: 'Daně', link: '/cs/foo' },
+        { text: 'Odběry', link: '/cs/guide/subscriptions' },
+        { text: 'Připojení Stripe', link: '/cs/guide/stripe' },
+        { text: 'Výplaty', link: '/cs/guide/payouts' },
+        { text: 'Daně', link: '/cs/guide/taxes' },
       ]
     },
     {

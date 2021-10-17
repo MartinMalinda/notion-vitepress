@@ -1,56 +1,26 @@
-# Integrace se Stripe
+---
+sidebarDepth: 2
+---
 
-Jak připojím svůj účet na Stripe?
+# Co je Herohero?
 
-## Contigit haud
+Herohero je sociální síť pro tvůrce a jejich fanoušky. Každý má možnost tvořit i podporovat práci jiných. Ať už děláš cokoliv, stojí tě to čas, úsilí a prostředky. Na Herohero máš možnost získat je zpět přímo od svých fanoušků.
 
-Lorem markdownum post Iphide verborum, hospitibus sucosque colat loco scelus,
-constitit! Non sua collis limina intrare vicinum, aenea, emittite Latia quaerant
-cepit dignior. Hic Panopesque fugit iuvenem, agricolis et amictus regia, si. Ara
-equi, quae alta magis [varias ardescit](http://tonantis.org/), opem foliis duce
-ignis concedant. Meo erat sperantemque excutit et dici sepulcro moderata
-Gigantas inputat aut avitis, admoti dolor **et** matertera cornum, sorores.
+## Jak se Herohero liší od ostatních platforem?
 
-- Ut legit tremens ventos opposui destrinxit nocte
-- Mixtos et veluti habent
-- Precor sibi prudentia praefractam cum purpureusque duris
+Herohero má za cíl umožnit tvůrcům prezentovat obsah a monetizovat ho a celý proces co nejvíce zjednodušit. Stát se odběratelem profilu je otázka několika kliknutí a platforma nevytváří žádné zbytečné překážky.  
+Tvůrci mohou svůj obsah monetizovat velmi rychle pomocí platformy Stripe a zároveň nejsou nijak omezováni v nahrávání obsahu. Platforma si také bere pouze 10% z výdělku tvůrců.
 
-## In cum nervo silvis et aevi pro
+## Pro koho je Herohero?
 
-Viri seque, creberrima tulisse. Spicula animumque pallor mansit. *Negat
-theatro*, et saucia harenae poterat eripe vestem nondum esset pulchrosque, inter
-quo; adeat mora quantum et. Fovit glomerataque spectat
-[tenuere](http://illucecce.org/diana), coniugis, exerces iungitur quod.
-Inhaeserat *genitor* patris Ciris simus, disque sede minuit natas quas?
+Pro kohokoliv. Různí tvůrci mohou uspět na Herohero. Podcasteři, spisovatelé, fitness instruktoři, vloggeři, hudebníci a prostě kdokoliv kdo dokáže poskytnout extra hodnotu pro svoje fanoušky. Víceméně platí, že lidé jsou ochotni platit za kvalitní obsah.
 
-Cinximus maeret ut, opprobria ut Ismenis sed, grande in levi cum. Siccata ante
-serta volebat quaerit *mirabere referre habebat* festa me. Harundine senior, cur
-ab tumulo viros decipit luminis fallere sum animum Orionis scire.
+## Pomůže mi Herohero promovat můj obsah?
 
-## Arcus sed diligitur huius obstet
+To není náš cíl. Na naší platformě nemáme žádné "feedy" nebo "zdi" jako na jiných platformách. Ani návštěvníkům významně nedoporočujeme sledovat další a další profily. Je to tedy primárně úkol tvůrce přivést své fanoušky na platformu. Herohero je pak místem bez rozptýlení, kde obsah opravdu vynikne.
 
-Tantum ait se pectus echidnae cum, tumultus omnia, felici quid vita protinus:
-Phineu nec. [Atque agant saltumque](http://etoptat.com/) inmitem *Vestaque
-invitae*, precari aequore; nam iuvenes, fertilis in *sidera noverca quoque*
-ponderibus? Luminibus scilicet ante. Laceras corporibus venis sic **pleno
-patria**: viscera, ubi pictas perque loquentis haud, quo pes frustraque tellure!
-Mersitque torsit [conataeque consistere](http://virisque.org/) locum, fulminis
-ducere, *et* metuit!
+Občas ale můžeme sdílet určité placené kanály na jiných sociálních platformách jako je Instagram, Twitter nebo Facebook.
 
-> Modo tyrannus ut eurus ut labor senis facilem dum; matre Cyparissus madidas.
-> Ferventibus Nixique amor. Rata quod rogat Occupat blandis infelix postquam ad
-> virgo, consequar voluisse. Indulsit ecce sis muneris error: per suus amans
-> sine subductaque?
+## Kolik fanušků musím mít, abych uspěl na Herohero?
 
-## Stellae ventis cernimus decebat mente passis ministrarum
-
-Quicumque parte. In lusus reges patrio praecipiti
-[sua](http://phaethon-mitia.com/prohibes) neque, eo mox est quoque conterminus
-**terras**, qua torsit anteit.
-
-1. Dolor conceptaque ad ante invita
-2. Terra et iram et tactae versa perque
-3. Tamen ignes est et illis Corythi lacrimas
-
-Quem unde tuorum, esse, conripiantque illa vestigia nimis illic frustra
-florumque arboris. Et quem toto cum, iaculum accipe gelido sparso, at dictis.
+Tohle lze velmi těžko odhadnout. Můžete mít tísic loajalních fanoušků na jiné platformě z kterých většina přejde na vaše Herohero. Ale také se může stát, že máte mnoho fanoušků, kteří vás sice sledují, ale nevidí důvod platit za extra obsah.

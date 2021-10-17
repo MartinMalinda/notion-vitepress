@@ -1,7 +1,7 @@
 ---
 sidebarDepth: 2
 ---
-# Taxes
+# Daně
 
 As you receive profit from your subscribers you might be required to pay taxes from it in your country.
 
