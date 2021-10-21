@@ -4,26 +4,22 @@ sidebarDepth: 2
 
 # Oběry
 
-## When can people start subscribing to my channel?
+## Kdy mohou lidé začít odebírat můj obsah?
 
-Only after you connect your Herohero account to Stripe. You can do it in the "payouts" section in the settings. Before that you can add posts on your wall but visitors will not be able to subscribe to you and see them.
+Jen po úspěšném propojení Herohero k vašemu účtu Stripe. Připojit stripe můžete v nastavení v sekci "payouts". Před tímto propojením můžete přidávat příspěvky na vaší zeď ale návštěvníci nebudou moci si zaplatit odběr a obsah zpřístupnit.
 
-## What are the invites?
+## Co jsou pozvánky?
 
-On the invites page you can generate a magic link that can provide access to your channel to someone without paying for a subscription. This invitation is permanent and can't be undone.
-You can invite people to your channel even before you connect your account to Stripe.
+Na stránce "invites" si můžete vytvořit speciální odkaz který novému člověku umožní přístup na váš účet zdarma bez nutnosti zakoupení odběru. Tato pozvánka má neomezenou platnost a nemůže být zrušena.  
+Pozvat lidi na svůj účet můžete i když ještě nemáte účet propojený se Stripe.
 
-This magic link can be used just once - it expires once it is successfuly used and someone enteres your channel for free with it. But you can generate as many as you wish of them.
+Tento speciální odkaz může být použit jen jednou. Je platný dokud není úspešně použit a někdo přes něj nezíská přístup zdarma do vašeho účtu. Můžete ale těchto odkazů vytvořit libovolně mnoho.
 
-These invites can be useful if you want to invite your friends or close followers and they can also help you kickstart your community.
+Tyto pozvánky mohou být užitečné pro pozvání vašich přátel nebo blízkých followers a také mohou pomoci nastartovat první komunitu.
 
-If you've been invited to a channel, when you got to a list of your subscriptions you will see "free" on the subscription button on the right side.
+Pokud jste pozváni do nějakého účtu, uvidíte v pravo tlačítko "free" v seznamu odběrů (subscriptions).
 
-## Can I set up different tiers like on other platforms?
+## Mohu nastavit různé úrovně odběrů (tiers) jako na jiných platformách?
 
-No. We think that the price for entry into the paid channel should be the same for everyone.
-
-## Can I change the currency of my channel?
-
-So far not, but it is planned.
+Ne. Na Herohero je cena odběru pro všechny jednotná.
 

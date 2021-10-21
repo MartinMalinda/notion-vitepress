@@ -1,15 +1,18 @@
 ---
 sidebarDepth: 2
 ---
+
 # Daně
 
-As you receive profit from your subscribers you might be required to pay taxes from it in your country.
+S tím jak začnete získávat příjem z vašich odběrů, je pravděpodobné, že budete povinni platit z příjmu daň.  
+Po každé výplatě vám na email přijde faktura kterou můžete použít pro svoji daňovou evidenci.
 
-After each payout we will send you an invoice to your email address which you can use for your tax evidence.
+Je pravděpodobné že jako tvůrce se budete muset stát osobou výdělečně činnou (OSVČ) nebo založit vlastní firmu abyste mohli správně odvádět daně.
 
-Because tax laws differ from country to country we cannot provide any specific guidance. **We recommend reaching out to a local tax advisor faimiliar with the laws of your country.**
+Velmi doporučujeme konzultaci s daňovým poradcem nebo s daňovou firmou.
 
-## VAT
+## Užitečné odkazy
 
-Herohero does not allow charging VAT the end customer. We believe it is better not to confuse the customer with extra numbers and let them pay a simple fee.  
-If you're a VAT payer, it is therefore your task, to subtract the VAT tax from the profit and pay it accordingly.
+- [Podnikání - jak začít podnikat](https://www.jakpodnikat.cz/jak-zacit-podnikani.php)
+- [Fakturoid](https://www.fakturoid.cz/)
+- [Autorské honoráře](https://www.mesec.cz/clanky/autorske-honorare-2021-pravidla-pro-placeni-dane-z-prijmu-a-placeni-pojistnych-odvodu/)

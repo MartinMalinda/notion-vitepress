@@ -3,30 +3,30 @@ sidebarDepth: 2
 ---
 # Připojení Stripe
 
-Herohero uses Stripe for secure payments. Purchases of subscriptions are managed by the Stripe gateway. But Stripe is also used to issue payouts to the creators. By creating a Stripe account and linking it to Herohero, you'll allow Stripe to send your monthly profits to your bank account. It only takes a few minutes to set up.
+Herohero využivá služby Stripe pro zprostředkování bezpečných plateb. Stripe zajišťuje platby nových odběrů ale také zprostředkovává vyplácení měsíčních profitů tvůrcům. Vytvoření Stripe účtu je většinou otázka několika minut.
 
-## Getting started
+## Začínáme
 
-By clicking the "Connect" button in the payout settings you'll be taken to Stripe.
+Po kliknuití na tlačítko "Connect" v nastavení dojde k přesměrování na Stripe.
 
 ![test](/uploads/connect.png)
 
-On the stripe side you'll be asked for an email address, phone number and you might be required to upload a photo of your personal documents.  
-This is needed so that Stripe can verify your identity and so the money transfers comply with the law.
+Na stránce Stripu budete dotázání na vaší emailovou adresu, telefoní číslo a pravděpodobně bude od vás vyžádáno nahrátí fotek vašich osobních dokumentů (občanka aj).  
+Tyto údaje Stripe potřebuje aby mohl ověřit vaší identitu a vyplácení profitu splňovalo podmínky stanovené zákonem.
 
-Once your Stripe account is set up well and connected to Herohero successfully, you'll see a link to your Stripe account in the Payout settings:
+Poté co je váš účet Stripe úspěšně vytvořen a nastaven, budete přesměrováni zpět na Herohero. Herohero bude od té chvíle odkazovat do vašeho speciálního Stripe účtu:
 
 ![test](/uploads/account.png)
 
-After clicking on "My account", you'll be able to see the history of your payouts and your current balance. You can also manage your Stripe account, for example changing a target bank account, and your personal information.
+Po kliknutí na "My account" budete moci vidět historii vašich výplat a současný stav prostředků na účtu. Můžete také změnit váš bankovní účet nebo jiné osobní údaje.
 
-## Common questions
-### Stripe requires a website but I don't have one
+## Časté otázky nebo poznámky
+### Stripe vyžaduje zádání webové stránky ale já žádnou nemám
 
-You can fill there your social media account URL or even your Herohero channel URL. Whatever online space is representative of your business.
+Pokud nemáte vlastní web, můžete do této kolonky vyplnit adresu URL vašeho sociálního média nebo klidně i adresu vašeho Herohero kanálu. Může se jednat o jakoukoliv stránku, která nějakým způsobem reprezentuje vás nebo váš business.
 
-### I skipped some of the parts and the connection went through
+### Při nastavení Stripe účtu jsem přeskočil nějaké kroky a přesto došlo k vytvoření účtu
 
-Stripe may allow you to skip a few details but you might be required to fill them up later. If that happens Stripe will inform you of that by email. Please don't postpone that as not providing required information might lead to Stripe locking your account.
+Stripe může povolit přeskočení některých detailů ale zároveň je po vás možná bude vyžadovat později doplnit. Pokud k tomuto dojde, zašle vám Sripe email s žádostí o doplnění zbýbajících údajů. Toto doplnění je dobré neodkládat protože po delší době může Stripe účet zablokovat. Pokud je Stripe účet zablokovaný, nemůže váš účet získat nové odběratele, dokud se situace nevyřeší.
 
 
