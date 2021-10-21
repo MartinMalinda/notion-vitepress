@@ -14,5 +14,5 @@ Velmi doporučujeme konzultaci s daňovým poradcem nebo s daňovou firmou.
 ## Užitečné odkazy
 
 - [Podnikání - jak začít podnikat](https://www.jakpodnikat.cz/jak-zacit-podnikani.php)
-- [Fakturoid](https://www.fakturoid.cz/)
+- [Fakturoid](https://www.fakturoid.cz/almanach)
 - [Autorské honoráře](https://www.mesec.cz/clanky/autorske-honorare-2021-pravidla-pro-placeni-dane-z-prijmu-a-placeni-pojistnych-odvodu/)
