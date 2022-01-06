@@ -55,18 +55,40 @@ module.exports = {
 
 function getGuideSidebar() {
   return [
-    { text: 'First time on herohero', link: '/cs/guide/start' },
-    { text: 'For creators', link: '/cs/guide/for-creators' },
-    { text: 'For fans', link: '/cs/guide/for-fans' },
-    { text: 'Functions and settings', link: '/cs/guide/settings' },
+    {
+      text: 'Help center', children: [
+        { text: 'First time on herohero', link: '/cs/guide/start' },
+        { text: 'For creators', link: '/cs/guide/for-creators' },
+        { text: 'For fans', link: '/cs/guide/for-fans' },
+        { text: 'Functions and settings', link: '/cs/guide/settings' },
+      ]
+    },
+    {
+      text: 'Contact ✉️',
+      children: [
+        { text: 'info@herohero.co' }
+      ]
+    }
   ];
 }
 
 function getCzechSidebar() {
   return [
-    { text: 'Poprvé na herohero', link: '/cs/guide/start' },
-    { text: 'Pro tvůrce', link: '/cs/guide/for-creators' },
-    { text: 'Pro fanoušky', link: '/cs/guide/for-fans' },
-    { text: 'Funkce a nastavení', link: '/cs/guide/settings' },
+    {
+      text: 'Podpora',
+      children: [
+        { text: 'Poprvé na herohero', link: '/cs/guide/start' },
+        { text: 'Pro tvůrce', link: '/cs/guide/for-creators' },
+        { text: 'Pro fanoušky', link: '/cs/guide/for-fans' },
+        { text: 'Funkce a nastavení', link: '/cs/guide/settings' },
+      ]
+    },
+    {
+      text: 'Kontakt ✉️',
+      children: [
+        { text: 'info@herohero.co' }
+      ]
+    }
+
   ];
 }
