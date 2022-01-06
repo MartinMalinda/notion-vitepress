@@ -13,7 +13,7 @@ home: true
   </p>
 
   <section>
-    <a href="./guide/getting-started" class="btn">Start reading</a>
+    <a href="./guide/start" class="btn">Start reading</a>
   </section>
 </div>
 </div>

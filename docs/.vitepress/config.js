@@ -55,54 +55,18 @@ module.exports = {
 
 function getGuideSidebar() {
   return [
-    {
-      text: 'General',
-      children: [
-        { text: 'About', link: '/guide/getting-started' },
-        { text: 'Content', link: '/guide/content' },
-        { text: 'Payments', link: '/guide/payments' },
-      ],
-    }, {
-      text: 'Creators',
-      children: [
-        { text: 'Subscriptions', link: '/guide/subscriptions' },
-        { text: 'Connecting to Stripe', link: '/guide/stripe' },
-        { text: 'Payouts', link: '/guide/payouts' },
-        { text: 'Taxes', link: '/guide/taxes' },
-      ]
-    },
-    {
-      text: 'Contact ✉️',
-      children: [
-        { text: 'info@herohero.co' }
-      ]
-    }
-  ]
+    { text: 'First time on herohero', link: '/cs/guide/start' },
+    { text: 'For creators', link: '/cs/guide/for-creators' },
+    { text: 'For fans', link: '/cs/guide/for-fans' },
+    { text: 'Functions and settings', link: '/cs/guide/settings' },
+  ];
 }
 
 function getCzechSidebar() {
   return [
-    {
-      text: 'Obecné',
-      children: [
-        { text: 'O platformě', link: '/cs/guide/getting-started' },
-        { text: 'Obsah', link: '/cs/guide/content' },
-        { text: 'Platby', link: '/cs/guide/payments' },
-      ],
-    }, {
-      text: 'Tvůrci',
-      children: [
-        { text: 'Odběry', link: '/cs/guide/subscriptions' },
-        { text: 'Připojení Stripe', link: '/cs/guide/stripe' },
-        { text: 'Výplaty', link: '/cs/guide/payouts' },
-        { text: 'Daně', link: '/cs/guide/taxes' },
-      ]
-    },
-    {
-      text: 'Kontakt ✉️',
-      children: [
-        { text: 'info@herohero.co' }
-      ]
-    }
-  ]
+    { text: 'Poprvé na herohero', link: '/cs/guide/start' },
+    { text: 'Pro tvůrce', link: '/cs/guide/for-creators' },
+    { text: 'Pro fanoušky', link: '/cs/guide/for-fans' },
+    { text: 'Funkce a nastavení', link: '/cs/guide/settings' },
+  ];
 }
