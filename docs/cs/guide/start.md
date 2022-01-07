@@ -34,7 +34,7 @@ Herohero je sociální síť pro tvůrce a jejich fanoušky – každý má mož
 
 ### Proč herohero nemá přehled všech tvůrců?
 
-Herohero ctí komunitu tvůrce. Proto považujeme pro tvůrce nežádoucí, abychom fanouškům, které na Herohero přivede, podbízeli obsah jiných tvůrců.
+Herohero ctí komunitu tvůrce. Proto považujeme pro tvůrce nežádoucí, abychom fanouškům, které na herohero přivede, podbízeli obsah jiných tvůrců.
 
 ### Proč herohero nemá feed?
 
