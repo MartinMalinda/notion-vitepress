@@ -15,13 +15,18 @@ Herohero is a social media platform for creators and their fans - everyone has a
 ## I am a creator, how do I start?
 
 1. Sign up using your Google, Facebook, or simply your email address.
-2. Fill in your name, bio and claim a domain.
-3. Link your account to Stripe (Payouts).
-4. Set up the price for your monthly subscription.
-5. Upload your first post.
-6. Share your profile.
 
-\*ke všemu screenshot
+   ![](/images/1.png)
+2. Fill in your name, bio and claim a domain.  
+   ![](/images/2.png)
+3. Link your account to Stripe (Payouts).  
+   ![](/images/3.png)
+4. Set up the price for your monthly subscription.  
+   ![](/images/4.png)
+5. Upload your first post.  
+   ![](/images/5.png)
+6. Share your profile.  
+   ![](/images/7.png)
 
 ## I am a fan, how do I start?
 
