@@ -1,6 +1,8 @@
 ---
 
 ---
+## For fans
+
 ## How can I cancel my subscription?
 
 On your profile, click the Subscriptions button, find the creator you want to unsubscribe. After you find the creator, click on the button showing their monthly fee. After that, confirm your unsubscription by clicking on the Unsubscribe button.
