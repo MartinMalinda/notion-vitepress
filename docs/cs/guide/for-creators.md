@@ -7,7 +7,7 @@
 
 Výplata se odesílá na bankovní účet tvůrce vždy během prvního pracovního dne v měsíci.
 
-### Kolik si bere herohero z mé výplaty?
+### Kolik si strhává herohero z mé výplaty?
 
 Herohero si z tvého výdělku strhává 10 %. V této částce jsou zahrnuty poplatky za platební bránu, převod peněz na tvůj bankovní účet, ale i veškerý hosting a další poplatky.
 
