@@ -14,12 +14,18 @@ Herohero je sociální síť pro tvůrce a jejich fanoušky – každý má mož
 
 ### Jsem tvůrce, jak začít?
 
-1. Přihlaš se skrze Google, Facebook, nebo pomocí emailu. **_screenshot přihlašovacího modálu_**
-2. Vyplň jméno, bio a svou doménu. **_screenshot sekce nastavení_**
-3. Propoj si svůj účet se Stripe (Payout). **_screenshot sekce payout_**
-4. Nastav si cenu svého profilu. **_screenshot sekce subscription fee_**
-5. Nahraj svůj první příspěvek. **screenshot sekce create**
-6. Sdílej svůj profil. **_screenshot sdílecí icon, ideálně se šipečkou_**
+1. Přihlas se skrze Google, Facebook, nebo pomocí emailu.  
+   ![](/images/1.png)
+2. Vyplň jméno, bio a svou doménu.  
+   ![](/images/2.png)
+3. Propoj si svůj účet se Stripe (Payout).  
+   ![](/images/3.png)
+4. Nastav si cenu svého profilu.  
+   ![](/images/4.png)
+5. Nahraj svůj první příspěvek.  
+   ![](/images/5.png)
+6. Sdílej svůj profil.  
+   ![](/images/7.png)
 
 ### Jsem fanoušek, jak začít?
 
