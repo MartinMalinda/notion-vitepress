@@ -1,6 +1,8 @@
 ---
 
 ---
+### Pro tvůrce
+
 ### Kdy mi chodí peníze?
 
 Výplata se odesílá na bankovní účet tvůrce vždy během prvního pracovního dne v měsíci.
