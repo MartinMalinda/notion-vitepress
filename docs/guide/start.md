@@ -18,7 +18,7 @@ Herohero is a social media platform for creators and their fans - everyone has a
 
    ![](/images/1.png)
 2. Fill in your name, bio and claim a domain.  
-   ![](/images/2.png)
+   ![](/images/10.png)
 3. Link your account to Stripe (Payouts).  
    ![](/images/3.png)
 4. Set up the price for your monthly subscription.  
