@@ -1,6 +1,8 @@
 ---
 
 ---
+## For creators
+
 ## When will I receive my payment?
 
 Salaries are sent to bank accounts on the first business day of each month.
