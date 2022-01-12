@@ -14,7 +14,7 @@ Díky vlastnímu video přehrávači nahráváte veškerý obsah přímo na hero
 ### Audio
 
 Vlastní audio přehrávač umožňuje poslech obsahu i na uzamčené obrazovce telefonu.  
-![](/images/b.png)
+![](/images/b-2.png)
 
 ### Obrázky
 
