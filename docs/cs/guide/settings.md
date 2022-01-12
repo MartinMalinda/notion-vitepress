@@ -9,11 +9,12 @@ Po úspěšném propojení se Stripe a po získání alespoň jednoho platícíh
 
 ### Video
 
-Díky vlastnímu video přehrávači nahráváte veškerý obsah přímo na herohero a bez omezení na velikost i délku nahrávaného souboru.
+Díky vlastnímu video přehrávači nahráváte veškerý obsah přímo na herohero a bez omezení na velikost i délku nahrávaného souboru.![](/images/a-1.png)
 
 ### Audio
 
-Vlastní audio přehrávač umožňuje poslech obsahu i na uzamčené obrazovce telefonu.
+Vlastní audio přehrávač umožňuje poslech obsahu i na uzamčené obrazovce telefonu.  
+![](/images/b.png)
 
 ### Obrázky
 
@@ -21,7 +22,7 @@ Fotky té nejlepší kvality uploaduj rovnou na svůj profil, kde díky jednoduc
 
 ### Text
 
-Nahraj na svůj profil i jednoduchý textový příspěvek. Díky textovému editoru jej můžeš upravit, text napsat kurzívou, tučně či do textu vložit odkaz.
+Nahraj na svůj profil i jednoduchý textový příspěvek.![](/images/c-cz-1.png)
 
 ### Komentáře
 
@@ -30,13 +31,11 @@ Podporujeme hodnotnou zpětnou vazbu od fanouška směrem k tvůrci a proto na h
 ### Zprávy
 
 Komunikujte se svou komunitou napřímo díky DMs.  
-DMs vám umožní být ve spojení s vaším oblíbeným tvůrcem a vašimi fanoušky. Již brzy mezi sebou bude moci komunikovat i celá komunita, která sleduje daného odběratele.
+DMs vám umožní být ve spojení s vaším oblíbeným tvůrcem a vašimi fanoušky. Již brzy mezi sebou bude moci komunikovat i celá komunita, která sleduje daného odběratele.![](/images/d.png)
 
 ### Pozvánky
 
-Unikátní invite link ti umožní pozvat na svůj profil kohokoli u kterého budeš chtít, aby viděl tvůj obsah už napořád zdarma.
-
-**screenshot/gif**
+Unikátní invite link ti umožní pozvat na svůj profil kohokoli u kterého budeš chtít, aby viděl tvůj obsah už napořád zdarma.![](/images/e.png)
 
 ### Jak zruším svůj účet?
 
