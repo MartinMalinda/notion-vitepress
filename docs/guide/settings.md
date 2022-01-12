@@ -9,11 +9,11 @@ After the successful linking of your account to Stripe and receiving your first 
 
 ## Video
 
-Thanks to our very own media player, your content is uploaded directly to herohero without any limitations when it comes to size or length of the file.
+Thanks to our very own media player, your content is uploaded directly to herohero without any limitations when it comes to size or length of the file.![](/images/a-1.png)
 
 ## Audio
 
-Our media player allows users to listen to content even with a locked screen.
+Our media player allows users to listen to content even with a locked screen.![](/images/b.png)
 
 ## Pictures
 
@@ -21,7 +21,9 @@ Post high quality pictures directly to your profile where thanks to our simple d
 
 ## Text
 
-You can easily create a text only post and thanks to our text editor you can edit, write in cursive, make it bold or even add a link to your text.
+You can easily create a text only post.
+
+![](/images/c-eng.png)
 
 ## Comments
 
@@ -31,11 +33,11 @@ We support valuable feedback from fans towards their favourite creators. That's 
 
 Communicate with your community directly using DMs.
 
-DMs allow you to be in direct contact with your favourite creator and your fans. Soon you will also be able to communicate with fellow fans of your favourite creator.
+DMs allow you to be in direct contact with your favourite creator and your fans. Soon you will also be able to communicate with fellow fans of your favourite creator.![](/images/d.png)
 
 ## Invites
 
-The unique invite link allows you to invite anyone and grant them permission to see your content for free, forever.
+The unique invite link allows you to invite anyone and grant them permission to see your content for free, forever.![](/images/e.png)
 
 ## How can I delete my account?
 
