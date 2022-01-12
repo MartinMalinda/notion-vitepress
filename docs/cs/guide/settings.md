@@ -22,7 +22,7 @@ Fotky té nejlepší kvality uploaduj rovnou na svůj profil, kde díky jednoduc
 
 ### Text
 
-Nahraj na svůj profil i jednoduchý textový příspěvek.![](/images/c-cz-1.png)
+Nahraj na svůj profil i jednoduchý textový příspěvek.![](/images/c-cz-2.png)
 
 ### Komentáře
 
