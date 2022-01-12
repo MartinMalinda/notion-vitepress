@@ -21,9 +21,7 @@ Post high quality pictures directly to your profile where thanks to our simple d
 
 ## Text
 
-You can easily create a text only post.
-
-![](/images/c-eng.png)
+You can easily create a text only post.![](/images/c-eng-2.png)
 
 ## Comments
 
