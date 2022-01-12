@@ -13,7 +13,7 @@ Thanks to our very own media player, your content is uploaded directly to herohe
 
 ## Audio
 
-Our media player allows users to listen to content even with a locked screen.![](/images/b.png)
+Our media player allows users to listen to content even with a locked screen.![](/images/b-2.png)
 
 ## Pictures
 
