@@ -5,10 +5,10 @@ module.exports = {
   head: [
 
     ['link', { rel: 'icon', href: 'https://herohero.co/icons/safari-pinned-tab.svg' }],
-    ['link', { rel: 'preload', href: 'https://herohero.co/fonts/Silka-Bold.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
-    ['link', { rel: 'preload', href: 'https://herohero.co/fonts/Silka-Medium.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
-    ['link', { rel: 'preload', href: 'https://herohero.co/fonts/Silka-Regular.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
-    ['link', { rel: 'preload', href: 'https://herohero.co/fonts/Silka-Bold.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Bold.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Medium.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Regular.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
+    ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Bold.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
   ],
 
   themeConfig: {
