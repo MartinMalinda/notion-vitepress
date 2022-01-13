@@ -57,10 +57,10 @@ function getGuideSidebar() {
   return [
     {
       text: 'Help center', children: [
-        { text: 'First time on herohero', link: '/cs/guide/start' },
-        { text: 'For creators', link: '/cs/guide/for-creators' },
-        { text: 'For fans', link: '/cs/guide/for-fans' },
-        { text: 'Functions and settings', link: '/cs/guide/settings' },
+        { text: 'First time on herohero', link: '/guide/start' },
+        { text: 'For creators', link: '/guide/for-creators' },
+        { text: 'For fans', link: '/guide/for-fans' },
+        { text: 'Functions and settings', link: '/guide/settings' },
       ]
     },
     {

@@ -1,6 +1,9 @@
 ---
-
+sidebarDepth: 2
 ---
+
+# First time on herohero
+
 ## What is herohero?
 
 Herohero is a social media platform for creators and their fans - everyone has an opportunity to create and support the work of others. We're building a community, where everyone is on the same page / in the same boat.

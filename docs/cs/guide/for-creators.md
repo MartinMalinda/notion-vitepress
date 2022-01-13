@@ -1,6 +1,7 @@
 ---
-
+sidebarDepth: 2
 ---
+
 # Pro tvůrce
 
 ## Jak probíhá vyplácení?

@@ -1,6 +1,7 @@
 ---
-
+sidebarDepth: 2
 ---
+
 # For fans
 
 ## How can I cancel my subscription?

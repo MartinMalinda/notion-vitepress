@@ -1,6 +1,9 @@
 ---
-
+sidebarDepth: 2
 ---
+
+# Functions and settings
+
 ## Payments
 
 For payments, herohero uses Stripe. Payments are available for cards, Apple Pay and Google Pay

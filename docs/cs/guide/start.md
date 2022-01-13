@@ -1,6 +1,9 @@
 ---
-
+sidebarDepth: 2
 ---
+
+# Poprvé na herohero
+
 ## Co je herohero?
 
 Herohero je sociální síť pro tvůrce a jejich fanoušky – každý má možnost tvořit i podporovat práci jiných. Budujeme komunitu, ve které jsou všichni na jedné lodi.

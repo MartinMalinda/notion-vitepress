@@ -1,6 +1,7 @@
 ---
-
+sidebarDepth: 2
 ---
+
 # For creators
 
 ## When will I receive my payment?

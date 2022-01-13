@@ -1,6 +1,9 @@
 ---
-
+sidebarDepth: 2
 ---
+
+# Funkce a nastavení
+
 ## Platby a výplaty
 
 Pro platby a výplaty herohero používá Stripe. Platit je možné kartou, Apple Pay a Google Pay.

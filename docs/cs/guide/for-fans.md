@@ -1,6 +1,7 @@
 ---
-
+sidebarDepth: 2
 ---
+
 # Pro fanoušky
 
 ## Jak zrušit předplatné?
