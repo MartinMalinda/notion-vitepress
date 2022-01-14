@@ -1,10 +1,10 @@
 module.exports = {
-  logo: 'https://herohero.co/icons/safari-pinned-tab.svg',
+  logo: 'https://herohero.co/public/icons/safari-pinned-tab.svg',
   title: 'Help & Support',
   description: 'Frequently asked questions about the Herohero platform - Content, Payments, Subscriptions and so on.',
   head: [
 
-    ['link', { rel: 'icon', href: 'https://herohero.co/icons/safari-pinned-tab.svg' }],
+    ['link', { rel: 'icon', href: 'https://herohero.co/public/icons/safari-pinned-tab.svg' }],
     ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Bold.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
     ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Medium.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
     ['link', { rel: 'preload', href: 'https://herohero.co/public/fonts/Silka-Regular.woff2', as: 'font', type: 'font/woff2', crossorigin: '' }],
@@ -12,7 +12,7 @@ module.exports = {
   ],
 
   themeConfig: {
-    logo: 'https://herohero.co/icons/safari-pinned-tab.svg',
+    logo: 'https://herohero.co/public/icons/safari-pinned-tab.svg',
     nav: [
       { text: 'Back to Herohero', link: 'https://herohero.co' }
     ],

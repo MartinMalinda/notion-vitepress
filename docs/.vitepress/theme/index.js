@@ -6,6 +6,6 @@ import './style/main.css'
 
 export default {
   ...DefaultTheme,
-  logo: 'https://herohero.co/icons/safari-pinned-tab.svg',
+  logo: 'https://herohero.co/public/icons/safari-pinned-tab.svg',
   Layout: HeroLayout,
 }
