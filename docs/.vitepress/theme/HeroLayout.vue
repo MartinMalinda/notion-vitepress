@@ -23,7 +23,35 @@ if (typeof window !== 'undefined' && window.ga) {
   }, { immediate: true });
 }
 
-const { Layout } = DefaultTheme
+const { Layout } = DefaultTheme;
+
+const footerLinks = [
+  {
+  label: {
+    en: 'Contact us',
+    cs: 'Kontaktujte nás',
+  },
+    href: 'mailto:info@herohero.co'
+  }, {
+    label: {
+      en: 'Instagram'
+    },
+    href: 'https://www.instagram.com/herohero.co',
+    blank: true,
+  }, {
+    label: {
+      en: 'Twitter'
+    },
+    href: 'https://twitter.com/heroherocompany',
+    blank: true
+  }, {
+    label: {
+      en: 'Join us',
+      cs: 'Přidejte se k nám'
+    },
+    href: 'mailto:info@herohero.co'
+  }
+];
 </script>
 
 <template>
@@ -46,18 +74,10 @@ const { Layout } = DefaultTheme
       <footer class="theme">
     © Herohero
     <nav>
-      <a href="mailto:info@herohero.co">
-        Contact Us
+      <a v-for="link in footerLinks" :href="link.href" :target="link.blank ? '_blank' : undefined">
+        {{ link.label[language.split('-')[0]] || link.label.en }}
       </a>
-      <a rel="noopener" target="_blank" href="https://www.instagram.com/herohero.co/">
-        Instagram
-      </a>
-      <a rel="noopener" target="_blank" href="https://twitter.com/heroherocompany">
-        Twitter
-      </a>
-      <a href="mailto:info@herohero.co">
-        Join Us</a>
-      </nav>
+    </nav>
   </footer>
     </template>
   </Layout>
