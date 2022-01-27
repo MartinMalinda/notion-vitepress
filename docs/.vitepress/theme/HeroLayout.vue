@@ -2,6 +2,7 @@
 import DefaultTheme from 'vitepress/theme';
 import { useData, useRoute, useRouter} from 'vitepress';
 import { computed, watch } from 'vue';
+import { sendPageView } from './analytics';
 
 const data = useData();
 const language = computed(() => data.lang.value);
@@ -17,9 +18,9 @@ const feedbackLink = computed(() => {
 
 
 // Only run this on the client. Not during build.
-if (typeof window !== 'undefined' && window.ga) {
-  watch(() => router.route.data.relativePath, (path) => {
-      ga('send', 'pageview', path);
+if (typeof window !== 'undefined') {
+  watch(() => router.route.data.relativePath, () => {
+      sendPageView();
   }, { immediate: true });
 }
 
