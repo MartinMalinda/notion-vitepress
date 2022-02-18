@@ -5,11 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: ''
+  path: docs
   label: English
   create: all
   match: "**/*.md"
-  exclude: cs
+  exclude: "**/cs/**/*"
 - type: document
   path: docs/.vitepress/config.js
   label: Config
