@@ -9,9 +9,9 @@ sections:
   label: Config
 - type: directory
   path: ''
-  label: Pages
+  label: Czech
   create: all
-  match: "**/*.md"
+  match: "**/cs/**/*.md"
 upload_dir: docs/images
 public_path: "/images"
 front_matter_path: ''
