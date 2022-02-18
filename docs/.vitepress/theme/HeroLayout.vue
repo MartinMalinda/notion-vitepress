@@ -1,6 +1,6 @@
 <script setup>
-import DefaultTheme from 'vitepress/theme';
-import { useData, useRoute, useRouter} from 'vitepress';
+import DefaultTheme   from 'vitepress/theme';
+import { useData, useRoute, useRouter } from 'vitepress';
 import { computed, watch } from 'vue';
 import { sendPageView } from './analytics';
 
@@ -73,13 +73,31 @@ const footerLinks = [
       </template>
       </small>
       <footer class="theme">
-    © Herohero
-    <nav>
-      <a v-for="link in footerLinks" :href="link.href" :target="link.blank ? '_blank' : undefined">
-        {{ link.label[language.split('-')[0]] || link.label.en }}
-      </a>
-    </nav>
-  </footer>
-    </template>
-  </Layout>
+      © Herohero
+      <nav>
+        <a v-for="link in footerLinks" :href="link.href" :target="link.blank ? '_blank' : undefined">
+          {{ link.label[language.split('-')[0]] || link.label.en }}
+        </a>
+      </nav>
+    </footer>
+  </template>
+  <!-- <template #sidebar-top>
+    <ul class="sidebar-links">
+      <li class="sidebar-link">
+        <a href="/cs/guide/start" class="sidebar-link-item">Poprvé na herohero</a>
+      </li>
+      <li class="sidebar-link">
+        <a href="/cs/guide/for-creators" class="sidebar-link-item">Tvůrci</a>
+        <ul class="sidebar-links">
+          <li class="sidebar-link">
+            <a href="/cs/guide/for-creators" class="sidebar-link-item">Jak začít</a>
+          </li>
+           <li class="sidebar-link">
+            <a href="/cs/guide/get-subscribers" class="sidebar-link-item">Jak získat odběratele</a>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </template> -->
+</Layout>
 </template>

@@ -3,6 +3,14 @@ body {
   font-family: Silka !important;
 }
 
+a {
+  text-decoration-color: transparent !important;
+}
+
+.sidebar-links li:first-of-type .sidebar-links, .sidebar-links li:nth-of-type(3) .sidebar-links {
+  display: none !important;
+}
+
 .logo {
   position: relative;
   top: -2px;
@@ -56,6 +64,12 @@ body {
     margin-top: 4.25rem !important;
     position: sticky !important;
     top: 4.25rem !important;
+  }
+
+  @media (min-width: 960px) {
+    .sidebar {
+        width: 20.4rem !important;
+    }
   }
 
   .sidebar > .sidebar-links > .sidebar-link > .sidebar-links > .sidebar-link > .sidebar-link-item {

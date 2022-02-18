@@ -55,16 +55,17 @@ module.exports = {
 
 function getGuideSidebar() {
   return [
+    { text: 'First time on herohero', link: '/guide/start', collapsable: false, children: [] },
     {
-      text: 'Help center', children: [
-        { text: 'First time on herohero', link: '/guide/start' },
-        { text: 'For creators', link: '/guide/for-creators' },
-        { text: 'For fans', link: '/guide/for-fans' },
-        { text: 'Functions and settings', link: '/guide/settings' },
+      text: 'Creators', link: '/guide/for-creators', collapsable: false, children: [
+        { text: 'Starting out', link: '/guide/for-creators' },
+        { text: 'Getting subscribers', link: '/guide/get-subscribers' },
       ]
     },
+    { text: 'Fans', link: '/guide/for-fans', collapsable: false, children: [] },
+    { text: 'Features', link: '/guide/settings', children: [] },
     {
-      text: 'Contact ✉️',
+      text: 'Kontakt ✉️',
       children: [
         { text: 'info@herohero.co' }
       ]
@@ -74,9 +75,9 @@ function getGuideSidebar() {
 
 function getCzechSidebar() {
   return [
-    { text: 'Poprvé na herohero', link: '/cs/guide/start', children: [] },
+    { text: 'Poprvé na herohero', link: '/cs/guide/start', collapsable: false, children: [] },
     {
-      text: 'Tvůrci', collapsable: false, children: [
+      text: 'Tvůrci', link: '/cs/guide/for-creators', collapsable: false, children: [
         { text: 'Jak začít', link: '/cs/guide/for-creators' },
         { text: 'Jak zísat odběratele', link: '/cs/guide/get-subscribers' },
       ]
