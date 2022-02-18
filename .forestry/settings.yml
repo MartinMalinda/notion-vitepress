@@ -14,10 +14,10 @@ sections:
   path: docs/.vitepress/config.js
   label: Config
 - type: directory
-  path: ''
+  path: docs/cs
   label: Czech
   create: all
-  match: "**/cs/**/*.md"
+  match: "**/*.md"
 upload_dir: docs/images
 public_path: "/images"
 front_matter_path: ''
