@@ -74,21 +74,20 @@ function getGuideSidebar() {
 
 function getCzechSidebar() {
   return [
+    { text: 'Poprvé na herohero', link: '/cs/guide/start', children: [] },
     {
-      text: 'Podpora',
-      children: [
-        { text: 'Poprvé na herohero', link: '/cs/guide/start' },
-        { text: 'Pro tvůrce', link: '/cs/guide/for-creators' },
-        { text: 'Pro fanoušky', link: '/cs/guide/for-fans' },
-        { text: 'Funkce a nastavení', link: '/cs/guide/settings' },
+      text: 'Tvůrci', collapsable: false, children: [
+        { text: 'Jak začít', link: '/cs/guide/for-creators' },
+        { text: 'Jak zísat odběratele', link: '/cs/guide/get-subscribers' },
       ]
     },
+    { text: 'Fanoušci', link: '/cs/guide/for-fans', collapsable: false, children: [] },
+    { text: 'Funkce a nastavení', link: '/cs/guide/settings', children: [] },
     {
       text: 'Kontakt ✉️',
       children: [
         { text: 'info@herohero.co' }
       ]
     }
-
   ];
 }
