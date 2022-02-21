@@ -1,49 +1,29 @@
 ---
-sidebarDepth: 2
----
+sidebarDepth: "2"
 
+---
 # Functions and settings
 
-## Payments
+## Audio and video player
 
-For payments, herohero uses Stripe. Payments are available for cards, Apple Pay and Google Pay
-
-After the successful linking of your account to Stripe and receiving your first subscriber, you will be able to receive your first payment. Payments are automatically sent on the first business day of each month directly to the account linked to your Stripe.
-
-## Video
-
-Thanks to our very own media player, your content is uploaded directly to herohero without any limitations when it comes to size or length of the file.![](/images/a-1.png)
-
-## Audio
-
-Our media player allows users to listen to content even with a locked screen.![](/images/b-2.png)
+Thanks to our own player, you can upload content directly to Herohero, without having to worry about the size or length of the format. Our player works with all desktop and mobile devices and even allows users to play content with a locked screen. In this respect Herohero is ideal for all audio and video creators.
 
 ## Pictures
 
-Post high quality pictures directly to your profile where thanks to our simple design, they will truly come out.
+You can upload pictures in their full size. Thanks to the simple and minimalistic design, the pictures stand out beautifully. Herohero is ideal for photographers.
 
 ## Text
 
-You can easily create a text only post.![](/images/c-eng-3.png)
+Text can be displayed standardly, in cursive or bold. You can also add links and emoticons.
 
 ## Comments
 
-We support valuable feedback from fans towards their favourite creators. That's why on herohero you won't find likes, but comments.
+Comments are ideal for communication between creators and their fans. They work as a space to give feedback or ask any questions.
 
 ## Messages
 
-Communicate with your community directly using DMs.
-
-DMs allow you to be in direct contact with your favourite creator and your fans. Soon you will also be able to communicate with fellow fans of your favourite creator.![](/images/d.png)
+Messages, similarly to comments, are used as a communication tool between creators and their fans. The message section, due to its intimate environment, is more suitable for private conversations.
 
 ## Invites
 
-The unique invite link allows you to invite anyone and grant them permission to see your content for free, forever.![](/images/e.png)
-
-## How can I delete my account?
-
-For any account deletion, please contact [info@herohero.co](mailto:info@herohero.co) with a request to deactivate your profile and your herohero username.
-
-## Contact
-
-If you haven't found an answer to your question, please contact us on info@herohero.co
+Every creator can invite anyone they want to their profile, without the person having to pay a subscription fee. Our invites were created exactly for this purpose. Click on the arrow icon in the top right corner of the screen, copy the unique link and send it to the person you want to have access to your profile.
