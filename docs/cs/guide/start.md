@@ -1,48 +1,25 @@
 ---
-sidebarDepth: 2
----
+sidebarDepth: "2"
 
+---
 # Poprvé na herohero
 
 ## Co je herohero?
 
-Herohero je sociální síť pro tvůrce a jejich fanoušky – každý má možnost tvořit i podporovat práci jiných. Budujeme komunitu, ve které jsou všichni na jedné lodi.
+Herohero je platforma pro tvůrce a jejich fanoušky.
 
-## Jaké jsou hlavní výhody herohero?
+## Kdo tvoří na Herohero?
 
-* Moderní design, který vyzdvihuje obsah, nevytváří zbytečné distrakce a napomáhá budování komunity.
-* Neomezený upload dat.
-* Vlastní audio a video přehrávač.
-* Rychlé platby a spolehlivé výplaty.
+Nezáleží na tom, jestli točíš videa, nahráváš podcasty, fotíš, píšeš nebo třeba vaříš. Na Herohero máš volné ruce – můžeš nahrávat rozmanitý typ obsahu.
 
-## Jsem tvůrce, jak začít?
+## Proč platforma Herohero vznikla?
 
-1. Přihlas se skrze Google, Facebook, nebo pomocí emailu.  
-   ![](/images/1.png)
-2. Vyplň jméno, bio a svou doménu.  
-   ![](/images/2.png)
-3. Propoj si svůj účet se Stripe (Payout).  
-   ![](/images/3.png)
-4. Nastav si cenu svého profilu.  
-   ![](/images/4.png)
-5. Nahraj svůj první příspěvek.  
-   ![](/images/5.png)
-6. Sdílej svůj profil.  
-   ![](/images/7.png)
+Kreativní práce je práce – a my věříme, že každá práce si zaslouží odměnu. Proto jsme vytvořili platformu s férovými podmínkami, kde tvůrci a tvůrkyně mohou získat finanční ohodnocení přímo od svých fanoušků.
 
-## Jsem fanoušek, jak začít?
+## Proč nemá Herohero hlavní stranu s přehledem tvůrců?
 
-1. Vyhledej svého oblíbeného tvůrce na herohero.co
-2. Dej jí/mu odběr, čímž se ti odemkne veškerý obsah.
+Považujeme za nežádoucí, abychom fanouškům jednotlivých tvůrců podbízeli ostatní profily, tedy potenciální konkurenci.
 
-## Proč herohero nemá přehled všech tvůrců?
+## Kdo za Herohero stojí?
 
-Herohero ctí komunitu tvůrce. Proto považujeme pro tvůrce nežádoucí, abychom fanouškům, které na herohero přivede, podbízeli obsah jiných tvůrců.
-
-## Proč herohero nemá feed?
-
-Herohero je navrženo tak, aby pomáhalo budování komunity a prohlubování vztahu mezi tvůrcem a fanouškem. Míchání obsahu od vícero tvůrců jde proti tomuto konceptu.
-
-## Kdo stojí za herohero?
-
-Za herohero stojí tvůrci firmy GoOut, kulturně-informačního média a systému pro prodej vstupenek.
+Za Herohero stojí tvůrci [GoOut](https://goout.net/cs/) – platformy, která si klade za cíl propagaci kultury.
