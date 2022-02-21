@@ -1,39 +1,48 @@
 ---
-sidebarDepth: 2
----
+sidebarDepth: "2"
 
+---
 # Pro tvůrce
 
-## Jak probíhá vyplácení?
+## Jak začít?
 
-Výplata se odesílá na bankovní účet tvůrce vždy během prvního pracovního dne v měsíci.
+1. Přihlas se skrze Google, Facebook nebo pomocí e-mailu.
+2. Vyplň jméno, bio a svou doménu (herohero.co/nazevtvehoprofilu).
+3. V sekci Payout propoj svůj bankovní účet s platební službou Stripe (aby ti fanoušci mohli posílat odměnu).
+4. Nastav cenu za obsah, který budeš publikovat na svém profilu.
+5. Nahraj první příspěvek.
+6. Sdílej svůj profil.
 
-## Kolik si strhává herohero z mé výplaty?
+## Jaké jsou výhody Herohero?
 
-Herohero si z tvého výdělku strhává 10 %. V této částce jsou zahrnuty poplatky za platební bránu, převod peněz na tvůj bankovní účet, ale i veškerý hosting a další poplatky.
+* Moderní design zbytečně nerozptyluje, obsah v něm vyniká;
+* neomezený upload dat,
+* vlastní audio a video přehrávač,
+* lokální podpora,
+* poplatek pouze 10 %.
 
-## Mohu si vytvořit více druhů předplatného na jednom profilu?
+## Jak probíhá vyplácení peněz?
 
-Na herohero je možné nastavit si pouze jedno předplatné, u kterého lze měnit částku. Pro uživatele je možnost jednoho tieru pochopitelnější a vede k vyšší konverzi. Nedochází tak k tříštění sledujících do různých skupin, ale k podpoře budování komunity, kde si jsou všichni rovni.
+Herohero pro platby a výplaty využívá služby Stripe. Po úspěšném propojení se službou Stripe a po získání alespoň jednoho platícího odběratele může tvůrce obdržet první výplatu. Výplaty jsou automaticky rozesílány první pracovní den v měsíci na bankovní účet připojený k účtu Stripe.
 
-## Jakou cenu si nastavit?
+## Mohu si vytvořit více druhů předplatného?
 
-Výše měsíčního fee záleží na typu i hodnotě daného obsahu. Pro představu, nejčastější fee se pohybuje mezi 4-6 EUR. Pokud si nejste jisti ohledně nastavení ceny, kontaktujte info@herohero.co
+Na Herohero je možné nastavit si pouze jedno předplatné. Jedna cena je pro uživatele pochopitelnější a vede k vyššímu počtu odběratelů. Nedochází k tříštění fanoušků do různých skupin, ale k podpoře budování komunity, kde jsou si všichni rovni.
 
-## Jsou na herohero nějaká omezení?
+## Jsou na Herohero nějaká omezení?
 
-Nejsou. Typ obsahu zůstává čistě na tobě, samozřejmě pod podmínkou, že nedochází k porušování platných zákonů ČR. Nenajdeš u nás ani omezení v podobě limitu na velikost ani délku nahrávaného obsahu.
+Nejsou. Volba typu nahrávaného obsahu zůstává čistě na tobě (samozřejmě pod podmínkou, že nedochází k porušování zákonů platných v České republice). Na platformě nenajdeš ani žádná omezení v podobě limitu na velikost či délku nahrávaného obsahu.
 
-## Jaké formáty médií mohu nahrávat?
+## Jaké formáty médií mohu na Herohero nahrávat?
 
-Podporujeme naprostou většinu formátů audia, videa i obrázků. Pokud váš formát nejde nahrát, dejte nám vědět.
+Podporujeme naprostou většinu formátů audia, videa i obrázků. Pokud tvůj formát nejde nahrát, dej nám vědět na e-mail [info@herohero.co](mailto:info@herohero.co).
 
 ## Jsou má data v bezpečí?
 
-Soukromá data jsou bezpečně uložena na serverech společnosti Google. Velmi dbáme na to, aby se k uloženým datům mohl dostat jen platící odběratel a nebylo možné odcizit obsah z profilu tvůrce.
+Soukromá data jsou bezpečně uložena na serverech společnosti Google. Velmi dbáme na to, aby se k uloženým datům mohli dostat jen platící odběratelé, aby nebylo možné odcizit obsah z profilu tvůrce.
 
 ## Daně
 
-Povinnost podat platit daně má každý, jehož roční příjmy přesáhly částku 15 000 Kč. Pokud s placením daní začínáte, doporučujeme navštívit portál jakpodnikat.cz.
+Povinnost platit daně má v České republice každý, jehož roční příjmy přesáhly částku 15 000 Kč. Pokud s placením daní začínáš, doporučujeme navštívit portál [jakpodnikat.cz](http://jakpodnikat.cz/), kde najdeš hodně praktických rad.
 
-S každou výplatou vám na email přijde daňový doklad, který můžete použít jako svou evidenci a na kterém je také uveden návod na zaúčtování.
+S každou výplatou ti na e-mail přijde daňový doklad, který můžeš použít pro evidenci svých příjmů. Je na něm také uveden návod na zaúčtování.
