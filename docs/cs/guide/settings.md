@@ -1,49 +1,29 @@
 ---
-sidebarDepth: 2
----
+sidebarDepth: "2"
 
+---
 # Funkce a nastavení
 
-## Platby a výplaty
+## Audio a video přehrávač
 
-Pro platby a výplaty herohero používá Stripe. Platit je možné kartou, Apple Pay a Google Pay.
-
-Po úspěšném propojení se Stripe a po získání alespoň jednoho platícího odběratele budete připraveni obdržet první výplatu. Výplaty jsou automaticky rozesílány v první pracovní den v měsíci na bankovní účet připojený k vašemu Stripe účtu.
-
-## Video
-
-Díky vlastnímu video přehrávači nahráváte veškerý obsah přímo na herohero a bez omezení na velikost i délku nahrávaného souboru.![](/images/a-1.png)
-
-## Audio
-
-Vlastní audio přehrávač umožňuje poslech obsahu i na uzamčené obrazovce telefonu.  
-![](/images/b-2.png)
+Díky našemu vlastnímu přehrávači můžeš obsah nahrávat přímo na Herohero, a to bez omezení velikosti a délky formátu. Přehrávač funguje na všech desktopových i mobilních zařízeních a umožňuje přehrávání i na zamčené obrazovce telefonu. Herohero je v tomto ohledu ideální pro všechny audio i video tvůrce.
 
 ## Obrázky
 
-Fotky té nejlepší kvality uploaduj rovnou na svůj profil, kde díky jednoduchému designu krásně vyniknou.
+Na Herohero můžeš nahrávat fotky v plné velikosti. Díky jednoduchému designu krásně vyniknou. Herohero je tak ideální pro fotografy.
 
 ## Text
 
-Nahraj na svůj profil i jednoduchý textový příspěvek.![](/images/c-cz-2.png)
+Text je možné zobrazit standardně, kurzívou nebo tučně. Do textu je také možné vkládat odkazy a emotikony.
 
 ## Komentáře
 
-Podporujeme hodnotnou zpětnou vazbu od fanouška směrem k tvůrci a proto na herohero nanajdeš lajky, ale komentáře.
+Komentáře jsou ideální pro komunikaci mezi tvůrci a fanoušky. Fungují jako prostor pro zpětnou vazbu nebo třeba dotazy.
 
 ## Zprávy
 
-Komunikujte se svou komunitou napřímo díky DMs.  
-DMs vám umožní být ve spojení s vaším oblíbeným tvůrcem a vašimi fanoušky. Již brzy mezi sebou bude moci komunikovat i celá komunita, která sleduje daného odběratele.![](/images/d.png)
+Podobně jako komentáře jsou i zprávy ideálním místem pro komunikaci mezi tvůrci a fanoušky. Prostředí zpráv je ale intimnější, a proto vhodnější pro soukromé konverzace.
 
 ## Pozvánky
 
-Unikátní invite link ti umožní pozvat na svůj profil kohokoli u kterého budeš chtít, aby viděl tvůj obsah už napořád zdarma.![](/images/e.png)
-
-## Jak zruším svůj účet?
-
-Pro zrušení účtu napiš na [info@herohero.co](mailto:info@herohero.co) prosbu o deaktivaci profilu a svůj nickname na herohero.
-
-## **Kontakt**
-
-Pokud jste nenašli svou odpověď, můžete nás také kontaktovat na emailu info@herohero.co.
+Každý tvůrce může pozvat kohokoliv na svůj profil, aniž by pozvaný za odběr musel platit. Právě k tomuto účelu slouží naše pozvánky. Stačí kliknout na ikonu v pravém horním rohu obrazovky (viz níže), zkopírovat unikátní odkaz a poslat ho vybrané osobě.
