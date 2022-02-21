@@ -1,39 +1,50 @@
 ---
-sidebarDepth: 2
----
+sidebarDepth: "2"
 
+---
 # For creators
+
+## How do I start?
+
+1. Sign up using Google, Facebook or email.
+2. Fill in your name, bio and claim your domain ([herohero.co/nameofyourprofile](http://herohero.co/nameofyourprofile)).
+3. In the payout section, connect your bank account to the payment gate – Stripe (so that fans can send you financial rewards).
+4. Set a subscription fee for the content you will be sharing on your profile.
+5. Upload your first post.
+6. Share your profile.
+
+## What are the benefits of Herohero?
+
+* a modern design that doesn’t distract, your content stands out
+* unlimited data upload
+* our own audio and video player
+* local support
+* payment fee of only - 10%
 
 ## When will I receive my payment?
 
-Salaries are sent to bank accounts on the first business day of each month.
-
-## How much is herohero charging me?
-
-Herohero is deducting only 10% from your income. This fee covers the payment gate, money transfer to your bank account, complete hosting and other fees.
+Herohero uses Stripe for all its transactions. After successfully connecting the herohero profile to Stripe and receiving at least one subscriber, creators are able to receive payments. Payments are sent out on the first workday of every month to the bank account that has been connected to Stripe.
 
 ## Can I create more than one type of subscription for one account?
 
-Herohero offers one type of subscription with the option of changing the cost. For users the option of one tier is more comprehensible and ultimately leads to higher conversion rates. Due to this, there is no needless grouping between your subscribers, instead it helps build a community where everyone is treated the same way.
+On herohero it is only possible to create one type of subscription. One price, for many users, is much more comprehensible and leads to more subscribers.
 
-## What price do you set?
+There is no fragmentation of fans into different groups – this helps creators build a more familiar, community-like experience for their fans where everyone is equal.
 
-The amount of the monthly fee depends on the type and value of the content. The most common fee is between 4-6 EUR. If you are unsure about the price setting, contact [info@herohero.co](mailto:info@herohero.co)
+## Does Herohero have any restrictions?
 
-## Does herohero have any restrictions?
-
-No. The content you share is completely up to you, in alignment with active Czech laws of course. You will not find any limitations or restrictions even with the size and length of uploads.
+No. The type of content you share is solely up to you (under the condition that it doesn’t break any laws that are valid in the Czech republic of course). Herohero also doesn’t limit the size or length of the uploaded content.
 
 ## Which media formats are supported?
 
-We support a majority of media formats. If your desired format is not uploading, please let us know.
+We support a majority of media formats. If your desired format is not uploading, please let us know via e-mail [info@herohero.co](mailto:info@herohero.co).
 
 ## Is my data secure?
 
-All private data is securely encrypted on Google servers. We prioritise our security so that the only people that have access to your content are your subscribers and that your content cannot be stolen in any way.
+Your private data is safely stored on servers owned by Google. We cherish your content, that’s why only paying subscribers are granted access to your content, eliminating the possibility of having any of it stolen.
 
 ## Tax
 
-Everyone whose annual income exceeds CZK 15,000 is obliged to file taxes. If you are starting to pay taxes, we recommend visiting the jakpodnikat.cz portal.
+Everyone in the Czech republic that earns more than 15 000 CZK per year is obliged to pay taxes. If you are new to the process of paying taxes, we recommend visiting[ jakpodnikat.cz](http://jakpodnikat.cz/), where you can find a lot of helpful tips.
 
-With each payment, you will receive a tax document by email, which you can use as your record and which also contains instructions for your accounting needs.
+A tax invoice will be sent to your email with every payment you receive, that can be used as a statement of income. It comes with instructions for tax clearance.
