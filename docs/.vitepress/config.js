@@ -79,7 +79,7 @@ function getCzechSidebar() {
     {
       text: 'Tvůrci', link: '/cs/guide/for-creators', collapsable: false, children: [
         { text: 'Jak začít', link: '/cs/guide/for-creators' },
-        { text: 'Jak zísat odběratele', link: '/cs/guide/get-subscribers' },
+        { text: 'Jak získat odběratele', link: '/cs/guide/get-subscribers' },
       ]
     },
     { text: 'Fanoušci', link: '/cs/guide/for-fans', collapsable: false, children: [] },

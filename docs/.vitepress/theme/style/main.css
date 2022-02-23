@@ -11,6 +11,10 @@ a {
   display: none !important;
 }
 
+.sidebar-links .sidebar-links .sidebar-links {
+  display: none;
+}
+
 .logo {
   position: relative;
   top: -2px;
