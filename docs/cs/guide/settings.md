@@ -27,3 +27,5 @@ Podobně jako komentáře jsou i zprávy ideálním místem pro komunikaci mezi 
 ## Pozvánky
 
 Každý tvůrce může pozvat kohokoliv na svůj profil, aniž by pozvaný za odběr musel platit. Právě k tomuto účelu slouží naše pozvánky. Stačí kliknout na ikonu v pravém horním rohu obrazovky (viz níže), zkopírovat unikátní odkaz a poslat ho vybrané osobě.
+
+![](/images/30.png)
