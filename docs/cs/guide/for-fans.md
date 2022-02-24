@@ -12,9 +12,9 @@ sidebarDepth: "2"
 
 ## Jak koupit předplatné?
 
-4. Na profilu tvůrce klikni na tlačítko Subscribe.
-5. Vyber si platební metodu (Google Pay, Apple Pay nebo platební karta).
-6. Tadá, máš přístup k účtu tvého oblíbeného tvůrce.
+1. Na profilu tvůrce klikni na tlačítko Subscribe.
+2. Vyber si platební metodu (Google Pay, Apple Pay nebo platební karta).
+3. Tadá, máš přístup k účtu tvého oblíbeného tvůrce.
 
 ## Proč Herohero nemá feed?
 
@@ -22,7 +22,9 @@ Platforma Herohero je navržena tak, aby napomáhala budování komunity a prohl
 
 ## Jak zrušit předplatné?
 
-Na svém profilu rozklikni kolonku Subscriptions. Následně u tvůrce, jehož předplatné chceš zrušit, klikni na tlačítko ukazující měsíční poplatek. Poté už jen zrušení předplatného potvrď stisknutím tlačítka Unsubscribe.
+Na svém profilu rozklikni kolonku Subscriptions. Následně u tvůrce, jehož předplatné chceš zrušit, klikni na tlačítko ukazující měsíční poplatek. Poté už jen zrušení předplatného potvrď stisknutím tlačítka Unsubscribe.  
+  
+![](/images/1-1.png)
 
 ## Jak zrušit účet?
 
