@@ -14,7 +14,7 @@ It doesn't matter if you create videos, record podcasts, take photographs, write
 
 ## Why was Herohero founded?
 
-Creative work is a job like every other – we believe that every job deserves a reward. That’s why we created a platform with fair conditions, where creators can get financially rewarded directly from their fans.
+Creative work is a job like any other – we believe that every job deserves a reward. That’s why we created a platform with fair conditions, where creators can get financially rewarded directly from their fans.
 
 ## Why doesn't Herohero have an overview of all its creators?
 
