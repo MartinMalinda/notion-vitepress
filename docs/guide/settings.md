@@ -6,7 +6,7 @@ sidebarDepth: "2"
 
 ## Audio and video player
 
-Thanks to our own player, you can upload content directly to Herohero, without having to worry about the size or length of the format. Our player works with all desktop and mobile devices and even allows users to play content with a locked screen. In this respect Herohero is ideal for all audio and video creators.
+You can upload content directly to Herohero, without having to worry about the size or length of the format. Our player works with all desktop and mobile devices and even allows users to play content with a locked screen. In this respect Herohero is ideal for all audio and video creators.
 
 ## Pictures
 
@@ -27,3 +27,5 @@ Messages, similarly to comments, are used as a communication tool between creato
 ## Invites
 
 Every creator can invite anyone they want to their profile, without the person having to pay a subscription fee. Our invites were created exactly for this purpose. Click on the arrow icon in the top right corner of the screen, copy the unique link and send it to the person you want to have access to your profile.
+
+![](/images/30.png)
