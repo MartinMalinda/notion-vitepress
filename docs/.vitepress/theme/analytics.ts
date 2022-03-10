@@ -2,7 +2,7 @@ let createdGA = false
 let createdFB = false
 // const FB_PIXEL_DEVEL = '1929889830539226'
 const FB_PIXEL_PRODUCTION = '603747997369094'
-const GA_ID = 'UA-190119161-3'
+const GA_ID = 'UA-190119161-1'
 
 function addScriptViaTag(src: string) {
   if (document.querySelector(`script[src='${src}']`))
@@ -45,19 +45,19 @@ async function setupGA() {
 async function setupFB() {
   await waitForIdle()
   /* eslint-disable */
-   if (!(window as any).fbq) {
-     function setupFbq(f) {
-         const n : any = f.fbq = function() {
-             n.callMethod ?
-                 n.callMethod.apply(n, arguments) : n.queue.push(arguments);
-         };
-         if (!f._fbq) f._fbq = n;
-         n.push = n;
-         n.loaded = !0;
-         n.version = '2.0';
-         n.queue = [];
-     }
-     /* eslint-enable */
+  if (!(window as any).fbq) {
+    function setupFbq(f) {
+      const n: any = f.fbq = function () {
+        n.callMethod ?
+          n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = '2.0';
+      n.queue = [];
+    }
+    /* eslint-enable */
     setupFbq(window)
   }
   if (!createdFB && (window as any).fbq) {
