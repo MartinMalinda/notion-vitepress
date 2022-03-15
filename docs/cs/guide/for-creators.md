@@ -2,7 +2,7 @@
 sidebarDepth: "2"
 
 ---
-# Pro tvůrce
+# Jsem tvůrce, začínám
 
 ## Jak začít?
 
@@ -23,7 +23,7 @@ sidebarDepth: "2"
 
 ## Jak probíhá vyplácení peněz?
 
-Herohero pro platby a výplaty využívá služby Stripe. Po úspěšném propojení se službou Stripe a po získání alespoň jednoho platícího odběratele může tvůrce obdržet první výplatu. Výplaty jsou automaticky rozesílány první pracovní den v měsíci na bankovní účet připojený k účtu Stripe.
+Herohero pro platby a výplaty využívá služby [Stripe](https://stripe.com/ "Stripe"). Po úspěšném propojení se službou Stripe a po získání alespoň jednoho platícího odběratele může tvůrce obdržet první výplatu. Výplaty jsou automaticky rozesílány první pracovní den v měsíci na bankovní účet připojený k účtu Stripe.
 
 ## Mohu si vytvořit více druhů předplatného?
 
@@ -39,7 +39,7 @@ Podporujeme naprostou většinu formátů audia, videa i obrázků. Pokud tvůj 
 
 ## Jsou má data v bezpečí?
 
-Soukromá data jsou bezpečně uložena na serverech společnosti Google. Velmi dbáme na to, aby se k uloženým datům mohli dostat jen platící odběratelé, aby nebylo možné odcizit obsah z profilu tvůrce.
+Soukromá data jsou bezpečně uložena na serverech společnosti [Google](https://cloud.google.com/ "Google"). Velmi dbáme na to, aby se k uloženým datům mohli dostat jen platící odběratelé, aby nebylo možné odcizit obsah z profilu tvůrce.
 
 ## Daně
 
