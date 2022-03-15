@@ -2,9 +2,9 @@
 sidebarDepth: "2"
 
 ---
-# Poprvé na herohero
+# Poprvé na Herohero
 
-## Co je herohero?
+## Co je Herohero?
 
 Herohero je platforma pro tvůrce a jejich fanoušky.
 
