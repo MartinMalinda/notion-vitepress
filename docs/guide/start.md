@@ -2,13 +2,13 @@
 sidebarDepth: "3"
 
 ---
-# First time on herohero
+# First time on Herohero
 
-## What is herohero?
+## What is Herohero?
 
 Herohero is a modern platform for creators and their fans.
 
-## Who can create on herohero?
+## Who can create on Herohero?
 
 It doesn't matter if you create videos, record podcasts, take photographs, write or even cook. On herohero you have full creative freedom to upload any type of content.
 
