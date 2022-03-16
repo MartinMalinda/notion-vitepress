@@ -22,7 +22,7 @@ Komentáře jsou ideální pro komunikaci mezi tvůrci a fanoušky. Fungují jak
 
 ## Zprávy
 
-Podobně jako komentáře jsou i zprávy ideálním místem pro komunikaci mezi tvůrci a fanoušky. Prostředí zpráv je ale intimnější, a proto vhodnější pro soukromé konverzace.
+Podobně jako komentáře jsou i zprávy ideálním místem pro komunikaci mezi tvůrci a fanoušky. Prostředí zpráv je ale intimnější, a proto vhodnější pro soukromé konverzace. Ve zprávách můžete posílat také obrázky, videa a audio soubory.
 
 ## Pozvánky
 
