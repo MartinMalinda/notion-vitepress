@@ -1,12 +1,13 @@
 ---
-sidebarDepth: 0
+sidebarDepth: "0"
+
 ---
-# Jak získat odběratele?
+# Jsem tvůrce, chci získat předplatitele
 
 ## Jaký obsah nahrávat?
 
-Na Herohero nahrávej obsah, který má unikátní hodnotu. Fanoušci dají tvůrci odběr hlavně tehdy, když porozumí tomu, že je pro ně obsah skutečně hodnotný.  
-  
+Na Herohero nahrávej obsah, který má unikátní hodnotu. Fanoušci dají tvůrci odběr hlavně tehdy, když porozumí tomu, že je pro ně obsah skutečně hodnotný.
+
 Mnohým tvůrcům se ověřilo, pokud bonusový (prémiový) obsah navazuje na veřejnou tvorbu – může se jednat o pokračování podcastu, prodlouženou verzi YouTube videa apod.
 
 ## Jak propagovat bonusový obsah?
@@ -21,5 +22,4 @@ Výše měsíčního poplatku záleží na typu i hodnotě daného obsahu. Pro p
 
 Mnohým tvůrcům se také osvědčilo začít níže (např. na 4 eurech) a později cenu zvednout (na 5–6 eur).
 
-  
 Pokud v nastavení vhodné ceny tápeš, kontaktuj [info@herohero.co](mailto:info@herohero.co), poradíme ti.
