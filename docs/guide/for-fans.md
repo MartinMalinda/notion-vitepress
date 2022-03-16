@@ -28,4 +28,4 @@ Go to your profile and click on the Subscriptions section. Then find the creator
 
 ## How can I delete my account?
 
-To delete your account, please contact us via e-mail at info@herohero.co.
+To delete your account, please contact us via e-mail at [info@herohero.co](mailto:info@herohero.co).
