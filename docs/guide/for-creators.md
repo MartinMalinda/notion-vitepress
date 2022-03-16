@@ -2,11 +2,11 @@
 sidebarDepth: "2"
 
 ---
-# For creators
+# I'm a creator getting started
 
 ## How do I start?
 
-1. Sign up using Google, Facebook or email.
+1. Sign up using Google, Facebook, or email.
 2. Fill in your name, bio and claim your domain ([herohero.co/nameofyourprofile](http://herohero.co/nameofyourprofile)).
 3. In the payout section, connect your bank account to the payment gate – Stripe (so that fans can send you financial rewards).
 4. Set a subscription fee for the content you will be sharing on your profile.
@@ -23,11 +23,11 @@ sidebarDepth: "2"
 
 ## When will I receive my payment?
 
-Herohero uses Stripe for all its transactions. After successfully connecting the herohero profile to Stripe and receiving at least one subscriber, creators are able to receive payments. Payments are sent out on the first workday of every month to the bank account that has been connected to Stripe.
+Herohero uses [Stripe](https://stripe.com/ "Stripe") for all its transactions. After successfully connecting the Herohero profile to Stripe and receiving at least one subscriber, creators are able to receive payments. Payments are sent out on the first workday of every month to the bank account that has been connected to Stripe.
 
 ## Can I create more than one type of subscription for one account?
 
-On herohero it is only possible to create one type of subscription. One price, for many users, is much more comprehensible and leads to more subscribers.
+On Herohero it is only possible to create one type of subscription. One price, for many users, is much more comprehensible and leads to more subscribers.
 
 There is no fragmentation of fans into different groups – this helps creators build a more familiar, community-like experience for their fans where everyone is equal.
 
