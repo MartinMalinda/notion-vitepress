@@ -2,7 +2,7 @@
 sidebarDepth: "2"
 
 ---
-# I'm a creator getting started
+# I'm a creator, getting started
 
 ## How do I start?
 
