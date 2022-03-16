@@ -29,3 +29,7 @@ Messages, similarly to comments, are used as a communication tool between creato
 Every creator can invite anyone they want to their profile, without the person having to pay a subscription fee. Our invites were created exactly for this purpose. Click on the arrow icon in the top right corner of the screen, copy the unique link and send it to the person you want to have access to your profile.
 
 ![](/images/30.png)
+
+## RSS
+
+With this feature, you can allow your subscribers to play your content outside of Herohero in their favorite podcast application. You can turn on the feature in your profile settings.
