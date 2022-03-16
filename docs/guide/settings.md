@@ -22,7 +22,7 @@ Comments are ideal for communication between creators and their fans. They work 
 
 ## Messages
 
-Messages, similarly to comments, are used as a communication tool between creators and their fans. The message section, due to its intimate environment, is more suitable for private conversations.
+Messages, similarly to comments, are used as a communication tool between creators and their fans. The message section, due to its intimate environment, is more suitable for private conversations. You can also send pictures, videos, and audio files in messages.
 
 ## Invites
 
