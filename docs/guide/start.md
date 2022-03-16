@@ -22,4 +22,4 @@ We consider the idea of showing fans of individual creators other profiles – p
 
 ## Who's behind everything?
 
-Herohero was created by [GoOut](https://goout.net/en/) – a platform that is used to promote culture.
+Herohero was created by the creators of [GoOut](https://goout.net/en/) – a platform that is used to promote culture.
