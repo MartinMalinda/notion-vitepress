@@ -32,4 +32,4 @@ Každý tvůrce může pozvat kohokoliv na svůj profil, aniž by pozvaný za od
 
 ## RSS
 
-Každý tvůrce může pozvat kohokoliv na svůj profil, aniž by pozvaný za odběr musel platit. Právě k tomuto účelu slouží naše pozvánky. Stačí kliknout na ikonu v pravém horním rohu obrazovky (viz níže), zkopírovat unikátní odkaz a poslat ho vybrané osobě.
+Díky této funkci můžete svým odběratelům povolit přehrávání vašeho obsahu mimo Herohero v jejich oblíbené podcastové aplikaci. Funkci můžete zapnout v nastavení vašeho profilu.
