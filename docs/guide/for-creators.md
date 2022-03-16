@@ -41,10 +41,10 @@ We support a majority of media formats. If your desired format is not uploading,
 
 ## Is my data secure?
 
-Your private data is safely stored on servers owned by Google. We cherish your content, that’s why only paying subscribers are granted access to your content, eliminating the possibility of having any of it stolen.
+Your private data is safely stored on servers owned by [Google](https://cloud.google.com/ "Google"). We cherish your content, that’s why only paying subscribers are granted access to your content, eliminating the possibility of having any of it stolen.
 
 ## Tax
 
 Everyone in the Czech republic that earns more than 15 000 CZK per year is obliged to pay taxes. If you are new to the process of paying taxes, we recommend visiting[ jakpodnikat.cz](http://jakpodnikat.cz/), where you can find a lot of helpful tips.
 
-A tax invoice will be sent to your email with every payment you receive, that can be used as a statement of income. It comes with instructions for tax clearance.
+A tax invoice will be sent to your email with every payment you receive, which can be used as a statement of income. It comes with instructions for tax clearance.
