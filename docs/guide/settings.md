@@ -6,7 +6,7 @@ sidebarDepth: "2"
 
 ## Audio and video player
 
-You can upload content directly to Herohero, without having to worry about the size or length of the format. Our player works with all desktop and mobile devices and even allows users to play content with a locked screen. In this respect Herohero is ideal for all audio and video creators.
+You can upload content directly to Herohero, without having to worry about the size or length of the format. Our player works with all desktop and mobile devices and even allows users to play content with a locked screen. In this respect, Herohero is ideal for all audio and video creators.
 
 ## Pictures
 
