@@ -10,7 +10,7 @@ Herohero is a modern platform for creators and their fans.
 
 ## Who can create on Herohero?
 
-It doesn't matter if you create videos, record podcasts, take photographs, write or even cook. On herohero you have full creative freedom to upload any type of content.
+It doesn't matter if you create videos, record podcasts, take photographs, write or even cook. On Herohero you have full creative freedom to upload any type of content.
 
 ## Why was Herohero founded?
 
