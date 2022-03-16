@@ -2,12 +2,12 @@
 sidebarDepth: "2"
 
 ---
-# For fans
+# I'm a fan, getting started
 
 ## How to start?
 
-1. Sign up using Google, Facebook or email.
-2. Search for your favourite creator.
+1. Sign up using Google, Facebook, or email.
+2. Search for your favorite creator.
 3. Buy the subscription of your selected creator. This will automatically unlock all of the creator's content.
 
 ## How to buy a subscription?
