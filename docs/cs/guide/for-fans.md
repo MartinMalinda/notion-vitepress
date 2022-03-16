@@ -2,7 +2,7 @@
 sidebarDepth: "2"
 
 ---
-# Pro fanoušky
+# Jsem fanoušek, začínám
 
 ## Jak začít?
 
@@ -22,8 +22,8 @@ Platforma Herohero je navržena tak, aby napomáhala budování komunity a prohl
 
 ## Jak zrušit předplatné?
 
-Na svém profilu rozklikni kolonku Subscriptions. Následně u tvůrce, jehož předplatné chceš zrušit, klikni na tlačítko ukazující měsíční poplatek. Poté už jen zrušení předplatného potvrď stisknutím tlačítka Unsubscribe.  
-  
+Na svém profilu rozklikni kolonku Subscriptions. Následně u tvůrce, jehož předplatné chceš zrušit, klikni na tlačítko ukazující měsíční poplatek. Poté už jen zrušení předplatného potvrď stisknutím tlačítka Unsubscribe.
+
 ![](/images/1-1.png)
 
 ## Jak zrušit účet?
