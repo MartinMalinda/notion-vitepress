@@ -5,15 +5,15 @@
 
 ## What content should I share?
 
-Share content that has unique value. Fans will subscribe to your account if they understand that the content you share is truly interesting.
+Share content that has a unique value. Fans will subscribe to your account if they understand that the content you share is truly interesting.
 
-A lot of creators have found it useful to use bonus (premium) content as an extension to their public creations - extended version of a podcast, a longer version of a Youtube video etc.
+A lot of creators have found it useful to use bonus (premium) content as an extension to their public creations - an extended version of a podcast, a longer version of a Youtube video, etc.
 
 ## How to promote bonus content?
 
-* If you create videos or podcasts, the most effective way of promoting your bonus content is at the start and end of the public version of your podcast/video (e.g. at the start: “Thank you to all of my herohero subscribers. Your support is highly appreciated.” or at the end: “You can find the extended version on Herohero, the exclusive version contains…”)
+* If you create videos or podcasts, the most effective way of promoting your bonus content is at the start and end of the public version of your podcast/video (e.g. at the start: “Thank you to all of my Herohero subscribers. Your support is highly appreciated.” or at the end: “You can find the extended version on Herohero, the exclusive version contains…”)
 * It is very important to let your subscribers know what they can expect from the exclusive version - your fans have to understand what content they’re paying for.
-* Promoting your account on social media definitely helps. If you create content other than audio or video, promoting your herohero profile on the internet is a must.
+* Promoting your account on social media definitely helps. If you create content other than audio or video, promoting your Herohero profile on the internet is a must.
 
 ## How to set up the correct price?
 
@@ -21,4 +21,4 @@ The subscription fee that you set up depends on the type and value of your conte
 
 Some creators also found it effective to start at a lower price (e.g. at 4 EUR) and later raise the price (to 5-6 EUR).
 
-If you are having any difficulties with selecting the suitable price or have any questions, contact us at [info@herohero.co](mailto:info@herohero.co), we’ll be happy to help.
+If you are having any difficulties with selecting a suitable price or have any questions, contact us at [info@herohero.co](mailto:info@herohero.co), we’ll be happy to help.
