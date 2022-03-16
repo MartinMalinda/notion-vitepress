@@ -2,7 +2,7 @@
 sidebarDepth: "0"
 
 ---
-# Jsem tvůrce, chci získat předplatitele
+# Jak získat předplatitele?
 
 ## Jaký obsah nahrávat?
 
