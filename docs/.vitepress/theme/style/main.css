@@ -7,14 +7,6 @@ a {
   text-decoration-color: transparent !important;
 }
 
-.sidebar-links li:first-of-type .sidebar-links, .sidebar-links li:nth-of-type(3) .sidebar-links {
-  display: none !important;
-}
-
-.sidebar-links .sidebar-links .sidebar-links {
-  display: none;
-}
-
 .logo {
   position: relative;
   top: -2px;
