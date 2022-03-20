@@ -1,6 +1,5 @@
 ---
 sidebarDepth: "2"
-
 ---
 # I'm a fan, getting started
 
