@@ -1,3 +1,5 @@
+const { default: pages } = require("../../scripts/pages.mjs");
+
 module.exports = {
   logo: 'https://herohero.co/public/icons/safari-pinned-tab.svg',
   title: 'Help & Support',
@@ -18,8 +20,9 @@ module.exports = {
     ],
 
     sidebar: {
-      '/guide/': getGuideSidebar(),
-      '/cs/guide/': getCzechSidebar(),
+      '/automaton/': pages.map(page => {
+        return page;
+      }),
     },
 
     locales: {
@@ -51,38 +54,4 @@ module.exports = {
       selectText: 'Česky',
     }
   }
-}
-
-function getGuideSidebar() {
-  return [
-    { text: 'First time on herohero', link: '/guide/start' },
-    { text: 'I’m a creator, getting started', link: '/guide/for-creators' },
-    { text: 'Getting subscribers', link: '/guide/get-subscribers' },
-    { text: 'I’m a fan, getting started', link: '/guide/for-fans' },
-    { text: 'Functions and settings', link: '/guide/settings' },
-    {
-      text: 'Kontakt ✉️',
-      children: [
-        { text: 'info@herohero.co' }
-      ]
-    }
-  ];
-}
-
-function getCzechSidebar() {
-  return [
-    { text: 'Poprvé na herohero', link: '/cs/guide/start' },
-    {
-      text: 'Jsem tvůrce, začínám', link: '/cs/guide/for-creators'
-    },
-    { text: 'Jak získat odběratele', link: '/cs/guide/get-subscribers' },
-    { text: 'Jsem fanoušek, začínám', link: '/cs/guide/for-fans' },
-    { text: 'Funkce a nastavení', link: '/cs/guide/settings' },
-    {
-      text: 'Kontakt ✉️',
-      children: [
-        { text: 'info@herohero.co' }
-      ]
-    }
-  ];
 }

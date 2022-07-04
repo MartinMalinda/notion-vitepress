@@ -9,6 +9,8 @@
     "docs:build": "vitepress build docs"
   },
   "devDependencies": {
+    "@notionhq/client": "^1.0.4",
+    "notion-to-md": "^2.5.0",
     "vitepress": "^0.22.2"
   },
   "repository": {
