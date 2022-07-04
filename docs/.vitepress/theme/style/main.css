@@ -14,6 +14,8 @@ a {
 }
 
 .logo {
+  width: 60px;
+  height: 60px !important;
   position: relative;
   top: -2px;
 }
