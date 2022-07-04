@@ -1,6 +1,12 @@
 body {
   color: var(--dark);
-  font-family: Silka !important;
+}
+
+p > img {
+  float: right;
+  max-width: 100px;
+  display: block;
+  padding: 1em;
 }
 
 a {

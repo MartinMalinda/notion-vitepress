@@ -1,11 +1,11 @@
 export default [{
   name: 'Why automate?',
-  slug: 'why-automatre',
+  slug: 'why-automate',
   link: 'https://cream-age-f7f.notion.site/Why-Automate-e4b6401914c04934adaa367edf6ffcca',
   id: 'e4b6401914c04934adaa367edf6ffcca'
 }, {
   name: 'Automation areas',
-  slug: 'automaton-areas',
+  slug: 'automation-areas',
   link: 'https://cream-age-f7f.notion.site/Automation-areas-8edc4c1c33a34a43ba7c3a7896a07387',
   id: '8edc4c1c33a34a43ba7c3a7896a07387'
 }, {
