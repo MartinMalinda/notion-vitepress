@@ -18,7 +18,7 @@ body {
   text-align: center;
 }
 
-p > img {
+p + img {
   float: right;
   max-width: 100px;
   display: block;

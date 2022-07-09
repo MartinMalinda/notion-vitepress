@@ -9,6 +9,11 @@ const notion = new Client({
 
 // passing notion client to the option
 const n2m = new NotionToMarkdown({ notionClient: notion });
+n2m.setCustomTransformer('image', async (block) => {
+  console.log(block);
+  const url = block.image?.file?.url || block.image?.external?.url;
+  return `<img src=${url} />`;
+});
 (async () => {
   pages.forEach(async (page) => {
     const mdblocks = await n2m.pageToMarkdown(page.id);
