@@ -14,6 +14,11 @@ export default [{
   link: 'https://cream-age-f7f.notion.site/Tools-0620c59cfe7f44ff8c9a06b30ce35970',
   id: '0620c59cfe7f44ff8c9a06b30ce35970'
 }, {
+  name: 'Automation management',
+  slug: 'automation-management',
+  link: 'https://cream-age-f7f.notion.site/Managing-automations-037afcbdda604a5c87acb6c096965a1b',
+  id: '037afcbdda604a5c87acb6c096965a1b'
+}, {
   name: 'Productivity',
   slug: 'productivity',
   link: 'https://cream-age-f7f.notion.site/Productivity-e5ef63b11d144b8bb7b1f37760d01bfc',
