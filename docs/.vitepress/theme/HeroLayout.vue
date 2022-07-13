@@ -3,6 +3,7 @@ import DefaultTheme from 'vitepress/theme';
 import { useData, useRoute, useRouter } from 'vitepress';
 import { computed, watch } from 'vue';
 import { sendPageView } from './analytics';
+import { string_to_slug } from '../../../scripts/utils.mjs';
 
 const data = useData();
 const language = computed(() => data.lang.value);
@@ -20,6 +21,8 @@ const feedbackLink = computed(() => {
 // Only run this on the client. Not during build.
 if (typeof window !== 'undefined') {
   watch(() => router.route.data.relativePath, () => {
+    const className = string_to_slug(router.route.data.title);
+    document.body.className = className;
     sendPageView();
   }, { immediate: true });
 }

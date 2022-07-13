@@ -18,12 +18,21 @@ body {
   text-align: center;
 }
 
-p + img {
+.tools p + img {
   float: right;
   max-width: 100px;
   display: block;
   padding: 1em;
 }
+
+.automation-management p + img {
+  /* float: right; */
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+  padding: 1em;
+}
+
 
 a {
   text-decoration-color: transparent !important;
