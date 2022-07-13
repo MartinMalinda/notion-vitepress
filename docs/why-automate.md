@@ -1,12 +1,12 @@
 # Why automate?
   
-Automation is inevitable part of our future. Computers have already helped us automate repetitive work that unnecessarily bothered our minds. Simple and more complex math operations, data categorisation and searching, project management, tax management and many more. Alleviating us from the menial work was the first task of computers ever since their beginning. What previously took minutes or hours of unsatisfying work started taking less than a second with the help of a basic computer. Computers since then evolved and started covering ever large area of work, be it photo, video, music editing. Computers also expanded into new areas like entertainment, education, communication or even art and design.
+Automation is an inevitable part of our future. Computers have already helped us automate repetitive work that unnecessarily bothered our minds. Simple and more complex math operations, data categorisation and searching, project management, tax management and many more. Alleviating us from the menial work was the first task of computers ever since their beginning. What previously took minutes or hours of unsatisfying work started taking less than a second with the help of a basic computer. Computers since then evolved and started covering ever large area of work, be it photo, video or music editing. Computers also expanded into new areas like entertainment, education, communication or even art and design.
 
-We are still fans of the original purpose of computers: automation. There’s always a need for automation. As new areas of work appear, so do new needs for automation. There’s also better and better tools to achieve it ever faster and better.
+I am a fan of the original purpose of computers: automation. There’s always a need for automation. As new areas of work appear, so do new needs for automation.
 
 **Highlights**
 
-- Automation mundane work frees employees to do more of the creative or the human caring work that the computers can’t do
+- Automating mundane work frees employees to do more of the creative or the personal, face to face work that the computers can’t do
 
 - Save time and therefore money
 
