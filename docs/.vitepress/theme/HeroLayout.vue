@@ -29,40 +29,21 @@ if (typeof window !== 'undefined') {
 
 const { Layout } = DefaultTheme;
 
-const footerLinks = [
-  {
-    label: {
-      en: 'Contact us',
-      cs: 'Kontaktujte nás',
-    },
-    href: 'mailto:info@herohero.co'
-  }, {
-    label: {
-      en: 'Instagram'
-    },
-    href: 'https://www.instagram.com/herohero.co',
-    blank: true,
-  }, {
-    label: {
-      en: 'Twitter'
-    },
-    href: 'https://twitter.com/heroherocompany',
-    blank: true
-  }, {
-    label: {
-      en: 'Join us',
-      cs: 'Přidejte se k nám'
-    },
-    href: 'mailto:info@herohero.co'
-  }
-];
 </script>
 
 <template>
   <Layout>
+    <template #page-top>
+      <div class="wip-line">
+        This knowledge base is a work in progress. I'm continuously improving it.
+      </div>
+    </template>
     <template #page-bottom>
       <footer class="theme">
         <nav>
+          Built with Vitepress and sourced in Notion. Contact me at <a
+            href="https://www.linkedin.com/in/martin-malinda-58b03253/">LinkedIn</a> | <a
+            href="mailto:malindacz@gmail.com">malindacz@gmail.com</a>.
         </nav>
       </footer>
     </template>

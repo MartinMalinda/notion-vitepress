@@ -2,6 +2,14 @@ body {
   color: var(--dark);
 }
 
+.wip-line {
+  margin-top: 0.5em;
+  border: 1px solid rgb(80, 80, 5);
+  padding: 0.5em;
+  color: rgb(80, 80, 5);
+  background:  rgba(255, 255, 0, 0.303);
+}
+
 .welcome {
   max-width: 920px;
   margin: 0 auto;
@@ -112,17 +120,11 @@ a {
 }
 
 footer {
-  padding: 6rem 0 3rem 0;
+  padding: 0rem 0 3rem 0;
   font-size: 0.8rem;
   /* margin-left: 0 !important; */
 }
 
-footer nav {
-  display: inline-flex;
-  justify-content: space-around;
-  width: 400px;
-  max-width: 100%;
-}
 
 footer a {
   /* display: inline-block; */
@@ -130,16 +132,10 @@ footer a {
   color: var(--dark-grey);
 }
 
-@media (max-width: 600px) {
-  footer nav {
-    width: 320px;
-    display: block;
-  }
-  
-  footer a {
-    margin: 0.5rem 0;
-    display: block;
-  }
+footer nav {
+  border-top: 1px solid var(--c-divider);
+  padding-top: 30px;
 }
+
 
 
