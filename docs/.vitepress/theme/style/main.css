@@ -4,10 +4,11 @@ body {
 
 .wip-line {
   margin-top: 0.5em;
-  border: 1px solid rgb(80, 80, 5);
+  border: 1px solid rgba(80, 80, 5, 0.1);
+  border-radius: 0.5em;
   padding: 0.5em;
   color: rgb(80, 80, 5);
-  background:  rgba(255, 255, 0, 0.303);
+  background:  rgba(255, 255, 0, 0.1);
 }
 
 .welcome {
