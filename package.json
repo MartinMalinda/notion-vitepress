@@ -26,7 +26,7 @@
   "dependencies": {
     "@netlify/functions": "^1.0.0",
     "airtable": "^0.11.4",
-    "email-deep-validator": "^3.3.0",
+    "deep-email-validator": "^0.1.21",
     "vue-concurrency": "^2.3.0"
   }
 }
