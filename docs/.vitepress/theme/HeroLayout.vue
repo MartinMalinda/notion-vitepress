@@ -70,7 +70,7 @@ const { Layout } = DefaultTheme;
         <template v-else>
           <div class="left">
             <div style="display: flex; align-items:center;">
-              <font size="6">✉️</font>&nbsp;Subscribe to my automation newsletter
+              <span style="font-size: 2rem">✉️</span>&nbsp;Subscribe to my automation newsletter
             </div>
           </div>
           <div class="right">
