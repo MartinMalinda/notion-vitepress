@@ -1,9 +1,10 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme';
 import { useData, useRoute, useRouter } from 'vitepress';
-import { computed, watch } from 'vue';
+import { computed, watch, ref } from 'vue';
 import { sendPageView } from './analytics';
 import { string_to_slug } from '../../../scripts/utils.mjs';
+import { useTask, timeout } from 'vue-concurrency';
 
 const data = useData();
 const language = computed(() => data.lang.value);
@@ -27,6 +28,29 @@ if (typeof window !== 'undefined') {
   }, { immediate: true });
 }
 
+const emailAddress = ref('');
+const subscribeTask = useTask(function* (signal) {
+  const email = document.querySelector('.sabskrajb input').value;
+  yield timeout(1000);
+  const response = yield fetch('/.netlify/functions/add-subscriber', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({
+      email
+    })
+  });
+
+  const json = yield response.json();
+
+  if (!response.ok) {
+    throw json
+  }
+
+  emailAddress.value = email;
+});
+
 const { Layout } = DefaultTheme;
 
 </script>
@@ -39,6 +63,34 @@ const { Layout } = DefaultTheme;
       </div>
     </template>
     <template #page-bottom>
+      <section class="sabskrajb">
+        <div v-if="subscribeTask.last && emailAddress.length" style="margin-bottom: -1rem;">
+          Thank you! Confirmation email was sent to <strong>{{ emailAddress }}</strong>.
+        </div>
+        <template v-else>
+          <div class="left">
+            <div style="display: flex; align-items:center;">
+              <font size="6">✉️</font>&nbsp;Subscribe to my automation newsletter
+            </div>
+          </div>
+          <div class="right">
+
+
+            <input :disabled="subscribeTask.isRunning" inputmode="email" type="email" placeholder="Email address">
+            <button :disabled="subscribeTask.isRunning" @click="() => subscribeTask.perform()" type="button">
+              <template v-if="subscribeTask.isRunning">
+                Sending...
+              </template>
+              <template v-else>
+                Subscribe
+              </template>
+            </button>
+          </div>
+          <small v-if="subscribeTask.isError" class="error" style="display:block;margin-bottom: 1rem">
+            {{ subscribeTask.last?.error }}
+          </small>
+        </template>
+      </section>
       <footer class="theme">
         <nav>
           Built with Vitepress and sourced in Notion. Contact me at <a

@@ -22,5 +22,10 @@
     "theme",
     "documentation",
     "vue"
-  ]
+  ],
+  "dependencies": {
+    "@netlify/functions": "^1.0.0",
+    "airtable": "^0.11.4",
+    "vue-concurrency": "^2.3.0"
+  }
 }

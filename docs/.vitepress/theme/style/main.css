@@ -120,6 +120,64 @@ a {
   display: block;
 }
 
+.sabskrajb {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1rem 2rem 1rem;
+  border: 4px solid black;
+  border-radius: 0.5rem;
+  /* background: black; */ 
+  color: black;
+  align-items: center;
+  position: relative;
+}
+
+.sabskrajb .right {
+  display: flex;
+}
+
+.sabskrajb input {
+  height: 3rem;
+  width: 17rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 4px solid black;
+  border-right-width: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+@media (max-width: 500px) {
+  .sabskrajb input {
+    width: 10rem;
+  }
+}
+
+.sabskrajb small {
+  font-weight: bold;
+}
+
+.sabskrajb input:focus {
+  outline: 0;
+}
+
+.sabskrajb button {
+  background: #00FFFF;
+  border: 0;
+  height: 3rem;
+  border: 4px solid black;
+  border-radius: 0.5rem;
+  padding: 0 1.7rem;
+  font-weight: bold;
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+
+.sabskrajb .error {
+  position: absolute;
+  bottom: -0.5rem;
+}
+
 footer {
   padding: 0rem 0 3rem 0;
   font-size: 0.8rem;
@@ -135,8 +193,13 @@ footer a {
 
 footer nav {
   border-top: 1px solid var(--c-divider);
-  padding-top: 30px;
+  padding-top: 1rem;
+  text-align: center;
+  width: 100%;
 }
 
+.error {
+  color: darkred;
+}
 
 
