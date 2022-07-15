@@ -9,6 +9,8 @@ const handler = jsonHandler('POST', async (event, inputData) => {
   console.log('add subsriber');
   const { valid } = await validate(email || '');
 
+  console.log('validated');
+
   if (!valid) {
     return {
       statusCode: 400,
