@@ -7,7 +7,10 @@ const table = base.table('Email subscribers');
 const handler = jsonHandler('POST', async (event, inputData) => {
   const email = inputData.email as string | undefined;
   console.log('add subsriber');
-  const { valid } = await validate(email || '');
+  const { valid } = await validate({
+    email: email || '',
+    validateSMTP: false, // this might cause timeouts on Netlify side, so lets skip this check
+  });
 
   console.log('validated');
 
