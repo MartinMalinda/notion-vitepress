@@ -6,6 +6,7 @@ const table = base.table('Email subscribers');
 
 const handler = jsonHandler('POST', async (event, inputData) => {
   const email = inputData.email as string | undefined;
+  console.log('add subsriber');
   const { valid } = await validate(email || '');
 
   if (!valid) {
@@ -34,9 +35,13 @@ const handler = jsonHandler('POST', async (event, inputData) => {
       };
     }
 
+    console.log('selected');
+
     await table.create({
       Email: email
     });
+
+    console.log('created');
 
     // All good, send a success response
     return { statusCode: 200, body: {} };
