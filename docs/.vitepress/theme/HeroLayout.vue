@@ -87,7 +87,7 @@ const { Layout } = DefaultTheme;
             </button>
           </div>
           <small v-if="subscribeTask.isError" class="error" style="display:block;margin-bottom: 1rem">
-            {{ subscribeTask.last?.error }}
+            {{ subscribeTask.last?.error?.message }}
           </small>
         </template>
       </section>
