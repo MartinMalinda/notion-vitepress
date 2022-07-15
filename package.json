@@ -27,6 +27,6 @@
     "@netlify/functions": "^1.0.0",
     "airtable": "^0.11.4",
     "deep-email-validator": "^0.1.21",
-    "vue-concurrency": "^2.3.0"
+    "vue-concurrency": "^4.0.0-7"
   }
 }
