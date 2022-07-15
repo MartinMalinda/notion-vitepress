@@ -173,9 +173,13 @@ a {
   border-top-left-radius: 0;
 }
 
-.sabskrajb .error {
+.sabskrajb .error, .sabskrajb .info {
   position: absolute;
   bottom: -0.5rem;
+}
+
+.sabskrajb .info {
+  color: rgb(41, 40, 40);
 }
 
 footer {

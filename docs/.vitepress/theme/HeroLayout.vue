@@ -74,8 +74,6 @@ const { Layout } = DefaultTheme;
             </div>
           </div>
           <div class="right">
-
-
             <input :disabled="subscribeTask.isRunning" inputmode="email" type="email" placeholder="Email address">
             <button :disabled="subscribeTask.isRunning" @click="() => subscribeTask.perform()" type="button">
               <template v-if="subscribeTask.isRunning">
@@ -88,6 +86,9 @@ const { Layout } = DefaultTheme;
           </div>
           <small v-if="subscribeTask.isError" class="error" style="display:block;margin-bottom: 1rem">
             {{ subscribeTask.last?.error?.message }}
+          </small>
+          <small v-else class="info" style="display:block;margin-bottom: 1rem; font-weight: 300;">
+            Only automation content will be sent. You can unsubscribe anytime.
           </small>
         </template>
       </section>
